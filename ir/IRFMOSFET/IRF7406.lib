@@ -1,0 +1,49 @@
+
+*SRC=IRF7406;IRF7406;MOSFETs P;Power <=100V;30V 5.8A .045ohm IR
+*SYM=POWMOSP
+.SUBCKT IRF7406 1 2 3
+* External Node Designations
+* Node 1 -> Drain
+* Node 2 -> Gate
+* Node 3 -> Source
+M1 9 7 8 8 MM L=100u W=100u
+* Default values used in MM:
+* The voltage-dependent capacitances are
+* not included. Other default values are:
+*   RS=0 RD=0 LD=0 CBD=0 CBS=0 CGBO=0
+.MODEL MM PMOS LEVEL=1 IS=1e-32
++ VTO=-2.12528 LAMBDA=0.00430348 KP=14.5518
++ CGSO=9.39408e-06 CGDO=5.45775e-07
+RS 8 3 0.0236914
+D1 1 3 MD
+.MODEL MD D IS=1.21103e-07 RS=0.024042 N=1.23424 BV=30
++ IBV=-0.00025 EG=1 XTI=2.46647 TT=5.00043e-11
++ CJO=1.13471e-09 VJ=1.07094 M=0.437624 FC=0.5
+RDS 3 1 1e+06
+RD 9 1 0.0001
+RG 2 7 7.21978
+D2 5 4 MD1
+* Default values used in MD1:
+*   RS=0 EG=1.11 XTI=3.0 TT=0
+*   BV=infinite IBV=1mA
+.MODEL MD1 D IS=1e-32 N=50
++ CJO=1.64248e-09 VJ=0.500015 M=0.595937 FC=1e-08
+D3 5 0 MD2
+* Default values used in MD2:
+*   EG=1.11 XTI=3.0 TT=0 CJO=0
+*   BV=infinite IBV=1mA
+.MODEL MD2 D IS=1e-10 N=0.4 RS=3e-06
+RL 5 10 1
+FI2 7 9 VFI2 -1
+VFI2 4 0 0
+EV16 10 0 9 7 1
+CAP 11 10 2.00222e-09
+FI1 7 9 VFI1 -1
+VFI1 11 6 0
+RCAP 6 10 1
+D4 6 0 MD3
+* Default values used in MD3:
+*   EG=1.11 XTI=3.0 TT=0 CJO=0
+*   RS=0 BV=infinite IBV=1mA
+.MODEL MD3 D IS=1e-10 N=0.4
+.ENDS IRF7406
