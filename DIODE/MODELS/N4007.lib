@@ -1,0 +1,5 @@
+
+*SRC=1N4007;DN4007;Diodes;Rectifier <=5A;1000V 1A
+.MODEL DN4007 D (IS=5.86E-06 N=1.70 BV=1.33E+03 IBV=5.00E-07
++ RS=4.22E-02 CJO=3.65E-11 VJ=.2 M=.333 TT=7.20E-06)
+* Motorola  1000 Volt   1.00 Amp   5.00 us  Si Rectifier   Diode  07-01-1990

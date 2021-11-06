@@ -1,0 +1,5 @@
+
+*SRC=1N5441;DN5441;Diodes;Varactors;30V 6.8pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL DN5441 D(M=.3980 VJ=.5188 CJO=14.9P BV=43.33 IBV=10N)
+* Motorola  CT=6.8P @ 4V Si Varactor Diode 5-5-91

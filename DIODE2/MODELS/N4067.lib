@@ -1,0 +1,5 @@
+
+*SRC=1N4067;ZN4067;Diodes;Zener 10V-50V;43V 1.5W
+.MODEL ZN4067 D (IS=7.79N RS=86.5 N=1 BV=42.37 IBV=7.5M
++ CJO=48.1P VJ=1 M=.33 TT=50.1N)
+* Motorola 43 Volt  1.5 Watt  Zener Diode  06-15-1993

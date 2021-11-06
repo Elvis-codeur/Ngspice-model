@@ -1,0 +1,5 @@
+
+*SRC=1N4761;ZN4761;Diodes;Zener >50V;75V 1W
+.MODEL ZN4761 D (IS=2.67N RS=117 N=1 BV=74.65 IBV=3.3M
++ CJO=27.6P VJ=1 M=.33 TT=50.1N)
+* Motorola 75 Volt  1 Watt  Zener Diode  06-15-1993

@@ -1,0 +1,5 @@
+
+*SRC=1S311;DS311;Diodes;Rectifier <=5A;100V 0.5A
+.MODEL DS311 D (IS=18.4N RS=42M N=1.75 BV=100 IBV=75U
++ CJO=206P VJ=.75 M=.333 TT=576N)
+* Hitachi 100 Volt  0.5 Amp  .4 us  Si Diode  11-09-1993

@@ -1,0 +1,5 @@
+
+*SRC=MR810;MR810;Diodes;Rectifier <=5A;50V 1A
+.MODEL MR810 D (IS=1.36E-10 N=2.18 BV=6.66E+01 IBV=1.00E-06
++ RS=2.96E-02 CJO=2.39E-11 VJ=.75 M=.41 TT=5.04E-07)
+* Motorola  50 Volt   1.00 Amp   0.35 us  Si Rectifier   Diode  07-01-1990

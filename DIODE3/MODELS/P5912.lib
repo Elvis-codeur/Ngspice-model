@@ -1,0 +1,5 @@
+
+*SRC=HSCH-5912;HP5912;Diodes;Schottky;400V .5A
+.MODEL HP5912 D (IS=.4N RS=10 N=1.08 BV=5 IBV=10U
++ CJO=.12P VJ=.65 M=.5 EG=.69 TT=72P)
+* H-P HSCH-5912 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993 

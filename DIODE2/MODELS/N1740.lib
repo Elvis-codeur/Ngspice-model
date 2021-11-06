@@ -1,0 +1,5 @@
+
+*SRC=1N1740;ZN1740;Diodes;Zener 10V-50V;37.2V 1.2W
+.MODEL ZN1740 D (IS=6.23N RS=111 N=1 BV=36.38 IBV=7.5M
++ CJO=45.6P VJ=1 M=.33 TT=50.1N)
+* Motorola 37.2 Volt  1.2 Watt  Zener Diode  06-15-1993

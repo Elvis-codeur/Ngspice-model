@@ -1,0 +1,5 @@
+
+*SRC=1N6468;ZN6468;Diodes;Zener >50V;54V 2.5W
+.MODEL ZN6468 D (IS=2.07U RS=92.8 N=1 BV=53.70 IBV=1M
++ CJO=1.53N VJ=.75 M=.333 TT=7.2U)
+* Unitrode 54 Volt  2.5 Watt  Zener Diode  10-12-1991

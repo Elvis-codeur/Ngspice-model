@@ -1,0 +1,5 @@
+
+*SRC=BAX18;BAX18;Diodes;Rectifier <=5A;75V 400mA
+.MODEL BAX18 D (IS=3.52E-08 N=2.01 BV=1.00E+01 IBV=3.00E-08
++ RS=1.41E-01 CJO=2.00E-11 VJ=.75 M=.333 TT=7.20E-08)
+* Philips  75 Volt   0.40 Amp   0.05 us  Si Rectifier   Diode  07-05-1990

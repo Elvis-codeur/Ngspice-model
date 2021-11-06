@@ -1,0 +1,6 @@
+
+*SRC=FMMV109;FMMV109;Diodes;Rectifier <=5A;6.2V .2W
+.MODEL FMMV109 D IS=7.312E-15 N=1.055 RS=.1524 XTI=3 
++      EG=1.11 CJO=61.3E-12 M=.9 VJ=2.659 FC=.5 BV=45.13 
++      IBV=.1294 TT=196.2E-9
+* Zetex 6.2 Volt  .2 Watt  Rectifier Diode  06-15-1993

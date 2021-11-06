@@ -1,0 +1,5 @@
+
+*SRC=1N756A;ZN756A;Diodes;Zener <=10V;8.2V .4W
+.MODEL ZN756A D (IS=4.27F RS=6.7 N=1 BV=8.069 IBV=20M
++ CJO=37.1P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 8.2 Volt  .4 Watt  Zener Diode  11-11-1993

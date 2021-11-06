@@ -1,0 +1,5 @@
+
+*SRC=1N4305;DN4305;Diodes;Switching;75V 200mA
+.MODEL DN4305 D (IS=4.81E-09 N=1.96 BV=1.00E+02 IBV=1.00E-07
++ RS=3.49E-01 CJO=2.00E-12 VJ=.75 M=.333 TT=2.88E-09)
+* Unitrode  75 Volt   0.20 Amp   2.00 ns  Si Switching   Diode  07-01-1990

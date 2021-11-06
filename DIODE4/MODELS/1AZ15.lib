@@ -1,0 +1,5 @@
+
+*SRC=1AZ15;Z1AZ15;Diodes;Zener 10V-50V;15V 1W
+.MODEL Z1AZ15 D (IS=5.19N RS=27.4 N=1 BV=14.73 IBV=10M
++ CJO=78.3P VJ=1 M=.33 TT=50.1N)
+* Toshiba 15 Volt  1 Watt  Zener Diode  11-09-1993

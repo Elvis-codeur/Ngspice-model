@@ -1,0 +1,6 @@
+
+*SRC=5082-2202;HP2202;Diodes;Schottky;4V
+.MODEL HP2202 D (IS=861N RS=5.73 N=1.17  BV=5.33 IBV=100N
++ CJO=180F VJ=.75 EG=.69 XTI=2 M=.333 TT=7.2P)
+* HP 5082-2202   4 Volt  1 Amp    Si Schottky Diode  02-13-1991
+* Package Capacitance/Inductance approximately .1PF and .53NH

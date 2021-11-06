@@ -1,0 +1,5 @@
+
+*SRC=MR811;MR811;Diodes;Rectifier <=5A;100V 1A
+.MODEL MR811 D (IS=5.95E-08 N=2.180 BV=1.33E+02 IBV=1.00E-06
++ RS=2.96E-02 CJO=2.39E-11 VJ=.75 M=.41 TT=5.04E-07)
+* Motorola  100 Volt   1.00 Amp   0.35 us  Si Rectifier   Diode  07-01-1990

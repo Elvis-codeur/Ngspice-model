@@ -1,0 +1,5 @@
+
+*SRC=MUR490;MUR490;Diodes;Rectifier <=5A;900V 4A
+.MODEL MUR490 D (IS=7.69U RS=39.9M N=2.96 BV=1200 IBV=25U
++ CJO=73.3P VJ=.75 M=.333 TT=108N)
+*   Motorola 900 Volt  4 Amp  .075 us  Si Diode  04-26-1991

@@ -1,0 +1,5 @@
+
+*SRC=1N4732;ZN4732;Diodes;Zener <=10V;4.7V 1W
+.MODEL ZN4732 D (IS=.671F RS=.811 N=1 BV=4.659 IBV=53M
++ CJO=214P VJ=.75 M=.33 TT=50.1N)
+* Motorola 4.7 Volt  1 Watt  Zener Diode  06-15-1993

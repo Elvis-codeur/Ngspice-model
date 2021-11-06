@@ -1,0 +1,5 @@
+
+*SRC=1N972B;ZN972B;Diodes;Zener 10V-50V;30V .4W
+.MODEL ZN972B D (IS=299P RS=42.8 N=1 BV=29.83 IBV=4.2M
++ CJO=27.6P VJ=1 M=.33 TT=50.1N)
+* Yunizon 30 Volt  .4 Watt  Zener Diode  11-11-1993

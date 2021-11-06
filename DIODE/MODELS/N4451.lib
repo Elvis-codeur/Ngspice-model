@@ -1,0 +1,5 @@
+
+*SRC=1N4451;DN4451;Diodes;Switching;40V 200mA
+.MODEL DN4451 D (IS=8.69E-09 N=1.84 BV=5.33E+01 IBV=5.00E-08
++ RS=3.61E-01 CJO=6.00E-12 VJ=.75 M=.333 TT=1.44E-08)
+* Unitrode  40 Volt   0.20 Amp   0.01 us  Si Switching   Diode  07-01-1990

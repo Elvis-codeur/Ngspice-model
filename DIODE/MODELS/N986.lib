@@ -1,0 +1,5 @@
+
+*SRC=1N986;DN986;Diodes;Zener >50V;110V .5W
+.MODEL DN986 D(RS=351.59 BV=109.60     
++ CJO=153.65P TT=20N N=2 IS=1E-9 IBV=1.1364M)   
+* Motorola  110.0 Volt Si Zener 10-26-1990

@@ -1,0 +1,5 @@
+
+*SRC=1N5446;DN5446;Diodes;Varactors;30V 18pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL DN5446 D(M=.4477 VJ=0.8110 CJO=33.2P BV=43.33 IBV=10N)
+* Motorola  CT=18P @ 4V Si Varactor Diode

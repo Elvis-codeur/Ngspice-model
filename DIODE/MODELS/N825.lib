@@ -1,0 +1,5 @@
+
+*SRC=1N825;DN825;Diodes;Zener <=10V;6.2V .4W
+.MODEL DN825 D (IS=19F RS=11.5 N=1 BV=6.116 IBV=7.5M
++ CJO=134P VJ=.75 M=.333 TT=2.88U)
+* 6.2 Volt  .4 Watt  Zener Diode  09-23-1991

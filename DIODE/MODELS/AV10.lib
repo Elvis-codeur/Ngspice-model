@@ -1,0 +1,5 @@
+
+*SRC=BAV10;BAV10;Diodes;Rectifier <=5A;60V 300mA
+.MODEL BAV10 D (IS=159N RS=.857 N=2 BV=90 IBV=300N
++ CJO=1.9P VJ=.75 M=.333 TT=4.61N)
+* Philips   60 Volt  .3 Amp  6E-09 us  Si Diode  11-23-1990

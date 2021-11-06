@@ -1,0 +1,5 @@
+
+*SRC=BA318;BA318;Diodes;Switching;50V 225mA
+.MODEL BA318 D (IS=25.1N RS=1.08 N=2 BV=66.6 IBV=20N
++ CJO=1.8P VJ=.75 M=.333 TT=3.76N)
+* Philips   50 Volt  .1 Amp  .004 us  Si Diode  11-23-1990

@@ -1,0 +1,5 @@
+
+*SRC=1N1738;ZN1738;Diodes;Zener 10V-50V;24.6V .8W
+.MODEL ZN1738 D (IS=4.15N RS=71.5 N=1 BV=24.07 IBV=7.5M
++ CJO=45.9P VJ=1 M=.33 TT=50.1N)
+* Motorola 24.6 Volt  .8 Watt  Zener Diode  06-15-1993

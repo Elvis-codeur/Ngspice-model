@@ -1,0 +1,5 @@
+
+*SRC=MUR840;MUR840;Diodes;Rectifier >5A;400V 8A
+.MODEL MUR840 D (IS=664U RS=22M N=4.52 BV=400 IBV=10U
++ CJO=330P VJ=.75 M=.333 TT=79.2N)
+* Motorola  400 Volt  8 Amp  55M us  Si Diode  02-24-1994

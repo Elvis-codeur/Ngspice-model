@@ -1,0 +1,5 @@
+
+*SRC=BYV10-20;BYV10-20;Diodes;Schottky;20V 1A
+.MODEL BYV10-20 D (IS=18.1U RS=.106 N=2.01 BV=26.4 IBV=9.0E-4
++ CJO=220P VJ=.75 M=.333 TT=43.2F XTI=2 EG=0.69)
+* Philips   20 Volt  1 Amp   Si Schottky Diode  11-23-1990

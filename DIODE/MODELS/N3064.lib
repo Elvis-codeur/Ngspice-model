@@ -1,0 +1,5 @@
+
+*SRC=1N3064;DN3064;Diodes;Switching;75V 75mA
+.MODEL DN3064 D (IS=5.08P RS=.56 N=1.79 BV=100 IBV=500N
++ CJO=2P VJ=.75 M=.333 TT=2.88N)
+* Unitrode 75 Volt  .75 Amp  2 ns  Si Diode  11-23-1990

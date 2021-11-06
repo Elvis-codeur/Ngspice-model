@@ -1,0 +1,5 @@
+
+*SRC=MUR805;MUR805;Diodes;Rectifier >5A;50V 8A
+.MODEL MUR805 D (IS=1.47E-07 N=1.86 BV=6.66E+01 IBV=5.00E-06
++ RS=5.31E-03 CJO=2.65E-10 VJ=.75 M=.41 TT=5.04E-08)
+* Motorola  50 Volt   8.00 Amp   0.04 us  Si Rectifier   Diode  07-01-1990

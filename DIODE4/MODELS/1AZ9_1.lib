@@ -1,0 +1,5 @@
+
+*SRC=1AZ9_1;Z1AZ9_1;Diodes;Zener <=10V;9.1V 1W
+.MODEL Z1AZ9_1 D (IS=5.19N RS=27.4 N=1 BV=8.830 IBV=10M
++ CJO=79.4P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 9.1 Volt  1 Watt  Zener Diode  11-09-1993

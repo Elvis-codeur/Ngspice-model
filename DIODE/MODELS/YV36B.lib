@@ -1,0 +1,5 @@
+
+*SRC=BYV36B;BYV36B;Diodes;Rectifier <=5A;400V 2A
+.MODEL BYV36B D (IS=28.4N RS=.345 N=2.07 BV=533 IBV=5U
++ CJO=39.40P VJ=.3696 M=.3424 TT=128N)
+* Philips   400 Volt  1.5 Amp  .13 us  Si Diode  04-22-1991

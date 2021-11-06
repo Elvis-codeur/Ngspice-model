@@ -1,0 +1,5 @@
+
+*SRC=1N4720;DN4720;Diodes;Rectifier <=5A;100V 3A
+.MODEL DN4720 D (IS=462P RS=11.5M N=1.42 BV=133.3 IBV=.5M
++ CJO=124P VJ=.75 M=.333 TT=21.6U)
+* Motorola   100 Volt  3 Amp  15 us  Si Diode  11-23-1990

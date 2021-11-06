@@ -1,0 +1,5 @@
+
+*SRC=05AZ82;Z05AZ82;Diodes;Zener >50V;82V .5W
+.MODEL Z05AZ82 D (IS=2.59N RS=287 N=1 BV=81.46 IBV=2M
++ CJO=20.8P VJ=1 M=.33 TT=50.1N)
+* Toshiba 82 Volt  .5 Watt  Zener Diode  11-09-1993

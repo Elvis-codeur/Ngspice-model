@@ -1,0 +1,5 @@
+
+*SRC=5KQ90;D5KQ90;Diodes;Schottky;90V 5A
+.MODEL D5KQ90 D (IS=88.4N RS=50M N=1.22 BV=90 IBV=1M
++ CJO=206P VJ=.75 M=.333 TT=93.6N EG=0.69 XTI=2)
+* Nippon Inta 90 Volt  5 Amp  65M us  Si Diode  11-16-1993

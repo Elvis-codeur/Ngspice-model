@@ -1,0 +1,5 @@
+******
+*SRC=SHD1382;SHD1382;Diodes;Schottky;45V 75A Sensitron
+.MODEL SHD1382 D (IS=157U RS=1.51M N=1.36 BV=50 IBV=1M 
++ CJO=2.85N VJ=.75 M=.333 TT=14.4P)
+* SENSITRON 45 Volt  75 Amp  Schottky Diode  05-28-1993

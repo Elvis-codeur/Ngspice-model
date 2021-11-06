@@ -1,0 +1,5 @@
+
+*SRC=ERD314;ERD314;Diodes;Rectifier <=5A;320V 1.5A
+.MODEL ERD314 D (IS=2.46N RS=20.4M N=1.31 BV=320 IBV=1.2U
++ CJO=63P VJ=.75 M=.333 TT=216N)
+* Fuji 320 Volt  1.5 Amp  .15 us  Si Diode  07-01-1993

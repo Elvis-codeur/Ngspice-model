@@ -1,0 +1,5 @@
+
+*SRC=1N5392;DN5392;Diodes;Rectifier <=5A;100V 1.5A
+.MODEL DN5392 D (IS=2.24E-09 N=1.59 BV=1.33E+02 IBV=1.00E-06
++ RS=4.30E-02 CJO=5.21E-11 VJ=.25 M=.4 TT=2.94E-06)
+* Motorola  100 Volt   1.50 Amp   3.50 us  Si Rectifier   Diode  06-28-1990

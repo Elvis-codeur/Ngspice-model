@@ -1,0 +1,5 @@
+
+*SRC=1N755;DN755;Diodes;Zener <=10V;7.5V .5W
+.MODEL DN755 D(RS=3.3593 BV=7.4328     
++ CJO=295.94P TT=50N M=.33 VJ=.75 IS=1E-11 N=1.27 IBV=10MA)     
+* Motorola  7.5 Volt Si Zener 10-26-1990

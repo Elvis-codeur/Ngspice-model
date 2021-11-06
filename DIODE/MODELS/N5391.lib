@@ -1,0 +1,5 @@
+
+*SRC=1N5391;DN5391;Diodes;Rectifier <=5A;50V 1.5A
+.MODEL DN5391 D (IS=2.26E-09 N=1.59 BV=6.66E+01 IBV=1.00E-06
++ RS=4.49E-02 CJO=5.21E-11 VJ=.25 M=.4 TT=2.94E-06)
+* Motorola  50 Volt   1.50 Amp   3.50 us  Si Rectifier   Diode  06-28-1990

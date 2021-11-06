@@ -1,0 +1,5 @@
+
+*SRC=1R5GH45;DR5GH45;Diodes;Rectifier <=5A;400V 1.5A
+.MODEL DR5GH45 D (IS=1.64N RS=26.7M N=1.67 BV=400 IBV=100U
++ CJO=63P VJ=.75 M=.333 TT=288N)
+* Toshiba 400 Volt  1.5 Amp  .2 us  Si Diode  11-09-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N2972A;ZN2972A;Diodes;Zener <=10V;8.2V 10W
+.MODEL ZN2972A D (IS=2.7F RS=.665 N=1 BV=8.001 IBV=.305
++ CJO=928P VJ=.75 M=.33 TT=50.1N)
+* Motorola 8.2 Volt  10 Watt  Zener Diode  06-15-1993

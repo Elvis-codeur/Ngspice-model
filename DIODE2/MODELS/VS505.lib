@@ -1,0 +1,5 @@
+
+*SRC=TVS505;TVS505;Diodes;Zener <=10V;6V 5W
+.MODEL TVS505 D (IS=1.29U RS=33.3M N=1 BV=5.684 IBV=1M
++ CJO=3.12N VJ=.75 M=.333 TT=36U)
+* Unitrode 6 Volt  5 Watt  Zener Diode  10-12-1991

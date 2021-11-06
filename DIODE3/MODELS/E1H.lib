@@ -1,0 +1,5 @@
+
+*SRC=FE1H;FE1H;Diodes;Rectifier <=5A;400V 1A
+.MODEL FE1H D (IS=2.51N RS=28.2M N=1.42 BV=400 IBV=1.5U
++ CJO=42.4P VJ=.75 M=.333 TT=21.6N)
+* Diotec 400 Volt  1 Amp  15M us  Si Diode  07-03-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N4075;ZN4075;Diodes;Zener >50V;87V 2W
+.MODEL ZN4075 D (IS=10.3N RS=284 N=1 BV=85.61 IBV=5M
++ CJO=36.8P VJ=1 M=.33 TT=50.1N)
+* Motorola 87 Volt  2 Watt  Zener Diode  06-15-1993

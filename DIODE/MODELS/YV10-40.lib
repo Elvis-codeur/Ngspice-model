@@ -1,0 +1,5 @@
+
+*SRC=BYV10-40;BYV10-40;Diodes;Schottky;40V 1A
+.MODEL BYV10-40 D (IS=18.1U RS=.106 N=2.01 BV=53.1 IBV=9.0E-4
++ CJO=220P VJ=.75 M=.333 TT=43.2F XTI=2 EG=0.69)
+* Philips   40 Volt  1 Amp  Si Schottky Diode  11-23-1990

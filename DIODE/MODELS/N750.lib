@@ -1,0 +1,5 @@
+
+*SRC=1N750;DN750;Diodes;Zener <=10V;4.7V .5W
+.MODEL DN750 D(RS=9.0662 BV=4.5187     
++ CJO=435.15P TT=50N M=.33 VJ=.75 IS=1E-11 N=1.27 IBV=10MA)     
+* Motorola  4.7 Volt Si Zener 10-26-1990

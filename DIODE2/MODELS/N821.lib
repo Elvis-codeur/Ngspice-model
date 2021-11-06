@@ -1,0 +1,5 @@
+
+*SRC=1N821;DN821;Diodes;Zener <=10V;6.2V .4W
+.MODEL DN821 D (IS=19F RS=11.5 N=1 BV=6.116 IBV=7.5M
++ CJO=46.5P VJ=.75 M=.33 TT=50.1N)
+* Motorola 6.2 Volt  .4 Watt  Zener Diode  02-05-1993

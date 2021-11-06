@@ -1,0 +1,5 @@
+
+*SRC=1N823A;DN823A;Diodes;Zener <=10V;6.2V .4W
+.MODEL DN823A D (IS=3.82F RS=6.34 N=1 BV=6.155 IBV=7.5M
++ CJO=57P VJ=.75 M=.33 TT=45.1N)
+* Motorola 6.2 Volt  .4 Watt  Zener Diode  02-05-1993

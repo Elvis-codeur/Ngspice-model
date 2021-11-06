@@ -1,0 +1,5 @@
+
+*SRC=1N4724;DN4724;Diodes;Rectifier <=5A;800V 3A
+.MODEL DN4724 D (IS=462P RS=11.5M N=1.42 BV=1066 IBV=.5M
++ CJO=124P VJ=.75 M=.333 TT=21.6U)
+* Motorola   800 Volt  3 Amp  15 us  Si Diode  11-23-1990

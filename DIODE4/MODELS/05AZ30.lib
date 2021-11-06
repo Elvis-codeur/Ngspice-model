@@ -1,0 +1,5 @@
+
+*SRC=05AZ30;Z05AZ30;Diodes;Zener 10V-50V;30V .5W
+.MODEL Z05AZ30 D (IS=2.59N RS=49.8 N=1 BV=29.76 IBV=5M
++ CJO=30.8P VJ=1 M=.33 TT=50.1N)
+* Toshiba 30 Volt  .5 Watt  Zener Diode  11-09-1993

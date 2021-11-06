@@ -1,0 +1,5 @@
+
+*SRC=1N5145;DN5145;Diodes;Varactors;60V 27pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL DN5145 D(M=0.4712 VJ=.545 CJO=49.90P BV=90 IBV=10N)
+* Motorola  CT=27P @ 4V Si Varactor Diode 5-5-91

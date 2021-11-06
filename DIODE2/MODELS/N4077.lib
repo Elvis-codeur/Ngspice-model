@@ -1,0 +1,5 @@
+
+*SRC=1N4077;ZN4077;Diodes;Zener >50V;100V 2W
+.MODEL ZN4077 D (IS=10.3N RS=334 N=1 BV=98.37 IBV=5M
++ CJO=34P VJ=1 M=.33 TT=50.1N)
+* Motorola 100 Volt  2 Watt  Zener Diode  06-15-1993

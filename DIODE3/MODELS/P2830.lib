@@ -1,0 +1,5 @@
+
+*SRC=5082-2830;HP2830;Diodes;Schottky;400V .5A
+.MODEL HP2830 D (IS=.2N RS=6 N=1.08 BV=10 IBV=10U
++ CJO=.4P VJ=.65 M=.5 EG=.69 TT=72P)
+* H-P 5082-2830 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993

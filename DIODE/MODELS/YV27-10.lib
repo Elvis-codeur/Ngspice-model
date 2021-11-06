@@ -1,0 +1,5 @@
+
+*SRC=BYV27-100;BYV27-10;Diodes;Rectifier <=5A;100V 2A
+.MODEL BYV27-10 D (IS=176N RS=72.3M N=2 BV=133.3 IBV=1U
++ CJO=93.4P VJ=.5447 M=.3492 TT=28.8N)
+* Philips   100 Volt  2 Amp  .02 us  Si Diode  04-22-1991

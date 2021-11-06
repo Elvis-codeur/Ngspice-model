@@ -1,0 +1,5 @@
+
+*SRC=BYV28-50;BYV28-5;Diodes;Rectifier <=5A;50V 3.5A
+.MODEL BYV28-5 D (IS=177N RS=54.8M N=1.89 BV=66.6 IBV=1U
++ CJO=198P VJ=.2073 M=.4150 TT=36N)
+* Philips   50 Volt  3.5 Amp  .025 us  Si Diode  04-22-1991

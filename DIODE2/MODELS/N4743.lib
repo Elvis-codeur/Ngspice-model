@@ -1,0 +1,5 @@
+
+*SRC=1N4743;ZN4743;Diodes;Zener 10V-50V;13V 1W
+.MODEL ZN4743 D (IS=12.8F RS=4.63 N=1 BV=12.91 IBV=19M
++ CJO=88.1P VJ=1 M=.33 TT=50.1N)
+* Motorola 13 Volt  1 Watt  Zener Diode  06-15-1993

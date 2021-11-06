@@ -1,0 +1,5 @@
+
+*SRC=02Z7_5A;Z02Z7_5A;Diodes;Zener <=10V;7.5V 250mW
+.MODEL Z02Z7_5A D (IS=3.26F RS=11.7 N=1 BV=7.409 IBV=8M
++ CJO=26.5P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 7.5 Volt  .25 Watt  Zener Diode  11-08-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N4741;ZN4741;Diodes;Zener 10V-50V;11V 1W
+.MODEL ZN4741 D (IS=7.14F RS=3.87 N=1 BV=10.91 IBV=23M
++ CJO=101P VJ=1 M=.33 TT=50.1N)
+* Motorola 11 Volt  1 Watt  Zener Diode  06-15-1993

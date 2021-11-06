@@ -1,0 +1,5 @@
+
+*SRC=BAS16;BAS16;Diodes;Rectifier <=5A;75V 250mA
+.MODEL BAS16 D (IS=10.6N RS=1.04 N=2 BV=99.9 IBV=20N
++ CJO=1.8P VJ=.75 M=.333 TT=5.76N)
+* Philips   75 Volt  .25 Amp  4 ns  Si Diode  11-23-1990

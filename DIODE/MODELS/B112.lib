@@ -1,0 +1,6 @@
+
+*SRC=BB112;BB112;Diodes;Varactors;12V 470pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL BB112 D (IS=75.8P RS=1.4 N=1.72 BV=15.9 IBV=50N
++ CJO=692P VJ=.845 M=.576 TT=360N)
+* Siemens  12 Volt  50M Amp  CT=470P @1V  Si Diode  05-05-1991

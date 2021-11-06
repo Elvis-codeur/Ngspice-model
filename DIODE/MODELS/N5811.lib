@@ -1,0 +1,5 @@
+
+*SRC=1N5811;DN5811;Diodes;Rectifier >5A;150V 6A
+.MODEL DN5811 D(RS=.007 CJO=135PF IS=4E-7 VJ=.6V    
++ TT=22NS M=.38 IBV=100UA BV=190 N=1.8)
+* Unitrode  150 Volt  6 Amp  30ns  Si Rectifier 10-26-1990   

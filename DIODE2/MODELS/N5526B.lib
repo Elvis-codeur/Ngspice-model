@@ -1,0 +1,5 @@
+
+*SRC=1N5526B;ZN5526B;Diodes;Zener 10V-50V;6.8V .4W
+.MODEL ZN5526B D (IS=1.91F RS=4.1 N=1 BV=6.799 IBV=1M
++ CJO=49.2P VJ=.75 M=.33 TT=50.1N)
+* Motorola 6.8 Volt  .4 Watt  Zener Diode  12-11-1995

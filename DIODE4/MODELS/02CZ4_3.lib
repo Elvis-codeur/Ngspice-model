@@ -1,0 +1,5 @@
+
+*SRC=02CZ4_3;Z02CZ4_3;Diodes;Zener <=10V;4.3V 200mW
+.MODEL Z02CZ4_3 D (IS=1.03N RS=124 N=1 BV=3.677 IBV=5M
++ CJO=48.9P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 4.3 Volt  .2 Watt  Zener Diode  11-08-1993

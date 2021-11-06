@@ -1,0 +1,5 @@
+
+*SRC=MUR850;MUR850;Diodes;Rectifier >5A;500V 8A
+.MODEL MUR850 D (IS=783U RS=30M N=4.82 BV=500 IBV=10U
++ CJO=330P VJ=.75 M=.333 TT=79.2N)
+* Motorola  500 Volt  8 Amp  55M us  Si Diode  02-24-1994

@@ -1,0 +1,5 @@
+
+*SRC=1N5340A;DN5340A;Diodes;Zener <=10V;6V 5W
+.MODEL DN5340A D (IS=8.06E-18 RS=.876 N=1 BV=5.820 IBV=.208
++ CJO=742P VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 6 Volt  5 Watt  Zener Diode  02-05-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N965B;ZN965B;Diodes;Zener 10V-50V;15V .4W
+.MODEL ZN965B D (IS=29.4F RS=12.9 N=1 BV=14.89 IBV=8.5M
++ CJO=40.3P VJ=1 M=.33 TT=50.1N)
+* Yunizon 15 Volt  .4 Watt  Zener Diode  11-11-1993

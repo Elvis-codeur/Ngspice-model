@@ -1,0 +1,5 @@
+
+*SRC=1N4531;DN4531;Diodes;Switching;100V 125mA
+.MODEL DN4531 D (IS=1.42E-09 N=1.55 BV=1.33E+02 IBV=1.00E-07
++ RS=6.01E-01 CJO=4.00E-12 VJ=.75 M=.333 TT=7.20E-09)
+* Unitrode  100 Volt   0.13 Amp   5.00 ns  Si Switching   Diode  07-01-1990

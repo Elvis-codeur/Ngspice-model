@@ -1,0 +1,5 @@
+
+*SRC=MR500;MR500;Diodes;Rectifier <=5A;50V 3A
+.MODEL MR500 D (IS=4.09E-10 N=1.41 BV=6.66E+01 IBV=1.00E-07
++ RS=8.08E-03 CJO=7.30E-11 VJ=.36 M=.41 TT=5.76E-06)
+* Motorola  50 Volt   3.00 Amp   5.00 us  Si Rectifier   Diode  07-01-1990

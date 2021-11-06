@@ -1,0 +1,5 @@
+
+*SRC=1N749A;ZN749A;Diodes;Zener <=10V;4.3V .4W
+.MODEL ZN749A D (IS=322F RS=20.7 N=1 BV=3.887 IBV=20M
++ CJO=97.8P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 4.3 Volt  .4 Watt  Zener Diode  11-11-1993

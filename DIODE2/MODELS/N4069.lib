@@ -1,0 +1,5 @@
+
+*SRC=1N4069;ZN4069;Diodes;Zener >50V;51V 2W
+.MODEL ZN4069 D (IS=10.3N RS=106 N=1 BV=50.22 IBV=7.5M
++ CJO=52.2P VJ=1 M=.33 TT=50.1N)
+* Motorola 51 Volt  2 Watt  Zener Diode  06-15-1993

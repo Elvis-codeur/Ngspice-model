@@ -1,0 +1,5 @@
+
+*SRC=BAS45;BAS45;Diodes;Switching;125V 225mA
+.MODEL BAS45 D (IS=2.73E-10 N=1.72 BV=1.66E+02 IBV=3.00E-10
++ RS=1.14E-02 CJO=7.00E-12 VJ=.75 M=.333 TT=7.20E-07)
+* Philips  125 Volt   0.10 Amp   0.50 us  Si Rectifier  Diode  07-06-1990

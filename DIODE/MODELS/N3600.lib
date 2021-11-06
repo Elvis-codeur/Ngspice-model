@@ -1,0 +1,5 @@
+
+*SRC=1N3600;DN3600;Diodes;Switching;75V 200mA
+.MODEL DN3600 D (IS=8.88E-09 N=1.84 BV=1.00E+02 IBV=5.00E-07
++ RS=4.61E-01 CJO=2.50E-12 VJ=.75 M=.333 TT=7.21E-09)
+* Unitrode  75 Volt   0.20 Amp   5.00 ns  Si Switching   Diode  07-01-1990

@@ -1,0 +1,5 @@
+
+*SRC=1N4748;ZN4748;Diodes;Zener 10V-50V;22V 1W
+.MODEL ZN4748 D (IS=3.11P RS=11.7 N=1 BV=21.87 IBV=11.5M
++ CJO=58.2P VJ=1 M=.33 TT=50.1N)
+* Motorola 22 Volt  1 Watt  Zener Diode  06-15-1993

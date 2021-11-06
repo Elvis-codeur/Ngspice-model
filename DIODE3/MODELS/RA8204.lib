@@ -1,0 +1,5 @@
+
+*SRC=ERA8204;ERA8204;Diodes;Schottky;45V .6A 
+.MODEL ERA8204 D (IS=1.55U RS=.133 N=1.17 BV=45 IBV=50U
++ CJO=107P VJ=.75 M=.333 XTI=3 EG=.69 TT=72P)
+* Fuji 45 Volt  .6 Amp   Schottky Diode  06-25-1993

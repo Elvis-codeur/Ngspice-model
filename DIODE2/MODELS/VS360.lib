@@ -1,0 +1,5 @@
+
+*SRC=TVS360;TVS360;Diodes;Zener >50V;67V 3W
+.MODEL TVS360 D (IS=389N RS=150.4 N=1 BV=66.71 IBV=1M
++ CJO=330P VJ=.75 M=.333 TT=21.6U)
+* Unitrode 67 Volt  3 Watt  Zener Diode  10-12-1991

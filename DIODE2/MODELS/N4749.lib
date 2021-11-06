@@ -1,0 +1,5 @@
+
+*SRC=1N4749;ZN4749;Diodes;Zener 10V-50V;24V 1W
+.MODEL ZN4749 D (IS=5.71P RS=12.5 N=1 BV=23.88 IBV=10.5M
++ CJO=54.6P VJ=1 M=.33 TT=50.1N)
+* Motorola 24 Volt  1 Watt  Zener Diode  06-15-1993

@@ -1,0 +1,5 @@
+
+*SRC=BYV27-200;BYV27-20;Diodes;Rectifier <=5A;200V 2A
+.MODEL BYV27-20 D (IS=176N RS=72.3M N=2 BV=266.6 IBV=1U
++ CJO=93.4P VJ=.5447 M=.3492 TT=28.8N)
+* Philips   20 Volt  2 Amp  .02 us  Si Diode  04-22-1991

@@ -1,0 +1,5 @@
+
+*SRC=1N4742;ZN4742;Diodes;Zener 10V-50V;12V 1W
+.MODEL ZN4742 D (IS=9.67F RS=4.26 N=1 BV=11.91 IBV=21M
++ CJO=94.2P VJ=1 M=.33 TT=50.1N)
+* Motorola 12 Volt  1 Watt  Zener Diode  06-15-1993

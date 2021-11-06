@@ -1,0 +1,5 @@
+
+*SRC=1N4153;DN4153;Diodes;Switching;75V 150mA
+.MODEL DN4153 D (IS=6.25E-09 N=1.92 BV=1.00E+02 IBV=5.00E-08
++ RS=5.71E-01 CJO=1.50E-12 VJ=.75 M=.333 TT=2.88E-09)
+* Unitrode  75 Volt   0.15 Amp   2.00 ns  Si Switching   Diode  07-01-1990

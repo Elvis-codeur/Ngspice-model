@@ -1,0 +1,5 @@
+
+*SRC=1N2971A;ZN2971A;Diodes;Zener <=10V;7.5V 10W
+.MODEL ZN2971A D (IS=1.32F RS=.572 N=1 BV=7.311 IBV=.335
++ CJO=1.06N VJ=.75 M=.33 TT=50.1N)
+* Motorola 7.5 Volt  10 Watt  Zener Diode  06-15-1993

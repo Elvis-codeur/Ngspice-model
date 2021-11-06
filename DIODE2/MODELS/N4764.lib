@@ -1,0 +1,5 @@
+
+*SRC=1N4764;ZN4764;Diodes;Zener >50V;100V 1W
+.MODEL ZN4764 D (IS=2.67N RS=289 N=1 BV=99.32 IBV=2.5M
++ CJO=24.5P VJ=1 M=.33 TT=50.1N)
+* Motorola 100 Volt  1 Watt  Zener Diode  06-15-1993

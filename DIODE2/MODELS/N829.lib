@@ -1,0 +1,5 @@
+
+*SRC=1N829;DN829;Diodes;Zener <=10V;6.2V .4W
+.MODEL DN829 D (IS=22.2F RS=12 N=1 BV=6.112 IBV=7.5M
++ CJO=100P VJ=.75 M=.33 TT=61.1N)
+* Motorola 6.2 Volt  .4 Watt  Zener Diode  02-05-1993

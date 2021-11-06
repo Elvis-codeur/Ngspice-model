@@ -1,0 +1,5 @@
+
+*SRC=1N1189;DN1189;Diodes;Rectifier >5A;500V 35A
+.MODEL DN1189 D (IS=23.4N RS=1.75M N=1.61 BV=666 IBV=4M
++ CJO=4.4N VJ=.75 M=.333 TT=144U)
+* Motorola  500 Volt  20 Amp  100 us  Si Diode  11-23-1990

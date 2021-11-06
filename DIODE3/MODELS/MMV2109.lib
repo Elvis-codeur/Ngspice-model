@@ -1,0 +1,6 @@
+
+*SRC=FMMV2109;FMMV2109;Diodes;Rectifier <=5A;6.2V .2W
+.MODEL FMMV2109 D IS=42.92E-15 N=1.111 RS=.152 XTI=3 
++      EG=1.11 CJO=70.85E-12 M=.4875 VJ=.9663 FC=.5 BV=45.15 
++      IBV=.2879 TT=288.5E-9
+* Zetex 6.2 Volt  .2 Watt  Rectifier Diode  06-15-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N4073;ZN4073;Diodes;Zener >50V;75V 2W
+.MODEL ZN4073 D (IS=10.3N RS=244 N=1 BV=73.81 IBV=5M
++ CJO=40.3P VJ=1 M=.33 TT=50.1N)
+* Motorola 75 Volt  2 Watt  Zener Diode  06-15-1993

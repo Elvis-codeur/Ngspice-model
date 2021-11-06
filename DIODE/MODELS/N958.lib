@@ -1,0 +1,5 @@
+
+*SRC=1N958;DN958;Diodes;Zener <=10V;7.5V .5W
+.MODEL DN958 D(RS=2.6167 BV=7.4564     
++ CJO=916.54P TT=20N N=2 IS=1E-9 IBV=16.667M)   
+* Motorola  7.5 Volt Si Zener 10-26-1990

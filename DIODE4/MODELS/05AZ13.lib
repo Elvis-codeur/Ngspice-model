@@ -1,0 +1,5 @@
+
+*SRC=05AZ13;Z05AZ13;Diodes;Zener 10V-50V;13V .5W
+.MODEL Z05AZ13 D (IS=55.1F RS=11.4 N=1 BV=12.89 IBV=10M
++ CJO=51.5P VJ=1 M=.33 TT=50.1N)
+* Toshiba 13 Volt  .5 Watt  Zener Diode  11-09-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N4446;DN4446;Diodes;Switching;75V 200mA
+.MODEL DN4446 D (IS=3.03E-11 N=1.70 BV=1.00E+02 IBV=5.00E-05
++ RS=2.10E-01 CJO=4.00E-12 VJ=.75 M=.333 TT=5.76E-09)
+* Unitrode  75 Volt   0.20 Amp   4.00 ns  Si Switching   Diode  07-01-1990

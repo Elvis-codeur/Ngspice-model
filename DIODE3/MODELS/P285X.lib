@@ -1,0 +1,5 @@
+
+*SRC=HSMS-285X;HP285X;Diodes;Schottky;400V .5A
+.MODEL HP285X D (IS=3E-6 RS=25 N=1.06 BV=3.8 IBV=3E-4
++ CJO=.18P VJ=.35 M=.5 EG=.69 XTI=2 TT=72P)
+* H-P HSMS-284X 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993  

@@ -1,0 +1,5 @@
+
+*SRC=1N4754;ZN4754;Diodes;Zener 10V-50V;39V 1W
+.MODEL ZN4754 D (IS=2.67N RS=36 N=1 BV=38.78 IBV=6.5M
++ CJO=39.3P VJ=1 M=.33 TT=50.1N)
+* Motorola 39 Volt  1 Watt  Zener Diode  06-15-1993

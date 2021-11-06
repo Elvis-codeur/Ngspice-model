@@ -1,0 +1,11 @@
+
+*SRC=J554;J554;Diodes;JFET Regulator;100V 1mA
+*SYM=CRDIODE
+.SUBCKT J554 1     2
+*Connections Anode Cathode 
+JFET 1 2 2 J554
+.MODEL J554 NJF (VTO=-1.35 BETA=.62M LAMBDA=1.1M RD=160
++ RS=86 IS=1.58F PB=1 FC=.5 CGS=5.57P CGD=3.78P)
+*  100 Volt  20M Amp  1K ohm  Dep-Mode N-Channel J-FET Diode 05-10-1991
+*  Siliconix 
+.ENDS

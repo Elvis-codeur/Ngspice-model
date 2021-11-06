@@ -1,0 +1,5 @@
+
+*SRC=LD103A;LD103A;Diodes;Rectifier <=5A;6.2V .2W
+.MODEL LD103A D IS=4.858E-9 N=2.038 RS=1.898 XTI=3 
++      EG=1.11 BV=164.1 IBV=12.94E-3 TT=4.184E-9 CJO=3P
+* Zetex 6.2 Volt  .2 Watt  Rectifier Diode  06-15-1993

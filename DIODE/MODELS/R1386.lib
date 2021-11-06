@@ -1,0 +1,5 @@
+
+*SRC=MR1386;MR1386;Diodes;Rectifier >5A;600V 20A
+.MODEL MR1386 D (IS=3.29E-09 N=1.70 BV=8.00E+02 IBV=1.00E-05
++ RS=4.60E-03 CJO=1.66E-10 VJ=.25 M=.2 TT=1.44E-07)
+* Motorola  600 Volt  20.00 Amp   0.10 us  Si Rectifier   Diode  06-27-1990

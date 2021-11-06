@@ -1,0 +1,5 @@
+
+*SRC=TVS528;TVS528;Diodes;Zener 10V-50V;30.7V 5W
+.MODEL TVS528 D (IS=1.29U RS=40.9 N=1 BV=30.39 IBV=1M
++ CJO=933P VJ=.75 M=.333 TT=36U)
+* Unitrode 30.7 Volt  5 Watt  Zener Diode  10-12-1991

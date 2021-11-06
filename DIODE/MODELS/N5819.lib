@@ -1,0 +1,5 @@
+
+*SRC=1N5819;DN5819;Diodes;Schottky;40V 1A
+.MODEL DN5819 D (IS=1.65E-05 N=1.41 BV=5.33E+01 IBV=6.00E-04
++ RS=4.47E-02 CJO=1.44E-10 VJ=1.45 M=.671 XTI=2 EG=0.69 TT=7.20E-11)
+* Motorola 40 Volt   1.00 Amp   Si Schottky   Diode  07-05-1990

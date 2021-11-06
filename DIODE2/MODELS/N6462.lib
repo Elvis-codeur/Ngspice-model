@@ -1,0 +1,5 @@
+
+*SRC=1N6462;ZN6462;Diodes;Zener <=10V;6.5V 2.5W
+.MODEL ZN6462 D (IS=2.07U RS=15.9 N=1 BV=6.184 IBV=20M
++ CJO=3.75N VJ=.75 M=.333 TT=7.2U)
+* Unitrode 6.5 Volt  2.5 Watt  Zener Diode  10-12-1991

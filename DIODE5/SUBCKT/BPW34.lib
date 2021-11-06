@@ -1,0 +1,13 @@
+
+*SRC=BPW34;BPW34;Diodes;Photo;PIN, 850nM .62A/W
+*SYM=BPW34
+.SUBCKT BPW34  4             1        3
+*              Input Pwr(W)  Cathode  Anode
+D2 6 1 DBPW34
+G2 1 6  POLY(2) 1 6  4 0   0 200P 477M
+* Dark current as a function of VR (200P*V(1,6)) 
+* and Spectral Photosensitivity (A/W) at 670nm (620M*77% = 477M)
+V4 6 3 ;  Photodiode Current
+.MODEL DBPW34 D (IS=117P RS=.132 N=2.41 BV=32 IBV=.15U
++ CJO=72P VJ=.75 M=.5 TT=504N) ;  32V 50mA diode model made by SpiceMod
+.ENDS

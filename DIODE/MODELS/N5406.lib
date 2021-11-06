@@ -1,0 +1,5 @@
+
+*SRC=1N5406;DN5406;Diodes;Rectifier <=5A;600V 3A
+.MODEL DN5406 D (IS=2.68P RS=7.31M N=1.17 BV=900 IBV=10U
++ CJO=124P VJ=.6 M=.333 TT=14.4U)
+* Motorola   600 Volt  3 Amp  15 us  Si Diode  11-23-1990

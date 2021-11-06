@@ -1,0 +1,5 @@
+
+*SRC=1N5345A;DN5345A;Diodes;Zener <=10V;8.7V 5W
+.MODEL DN5345A D (IS=.308F RS=1.82 N=1 BV=8.442 IBV=.143
++ CJO=424P VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 8.7 Volt  5 Watt  Zener Diode  02-05-1993

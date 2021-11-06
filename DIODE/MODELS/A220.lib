@@ -1,0 +1,6 @@
+
+*SRC=BA220;BA220;Diodes;Switching;10V 400mA
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL BA220 D (IS=2.75N RS=.21 N=1.70 BV=13.33 IBV=1.4U
++ CJO=2.35P VJ=.75 M=.333 TT=3.76N)
+* Philips   10 Volt  .2 Amp  .004 us  Si Diode  11-23-1990

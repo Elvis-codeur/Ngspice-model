@@ -1,0 +1,5 @@
+
+*SRC=HSMS-820X;HP820X;Diodes;Schottky;400V .5A
+.MODEL HP820X D (IS=4.6E-8 RS=6 N=1.09 BV=7.3 IBV=10E-5
++ CJO=.18P VJ=.5 M=.5 EG=.69 XTI=2 FC=.5 TT=0)
+* 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993 

@@ -1,0 +1,5 @@
+
+*SRC=1N4728;ZN4728;Diodes;Zener <=10V;3.3V 1W
+.MODEL ZN4728 D (IS=.597F RS=.659 N=1 BV=3.251 IBV=76M
++ CJO=363P VJ=.75 M=.33 TT=50.1N)
+* Motorola 3.3 Volt  1 Watt  Zener Diode  06-15-1993

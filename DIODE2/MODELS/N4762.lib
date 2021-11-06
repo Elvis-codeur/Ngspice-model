@@ -1,0 +1,5 @@
+
+*SRC=1N4762;ZN4762;Diodes;Zener >50V;82V 1W
+.MODEL ZN4762 D (IS=2.67N RS=141 N=1 BV=81.61 IBV=3M
++ CJO=26.5P VJ=1 M=.33 TT=50.1N)
+* Motorola 82 Volt  1 Watt  Zener Diode  06-15-1993

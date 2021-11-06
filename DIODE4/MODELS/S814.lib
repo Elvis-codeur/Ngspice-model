@@ -1,0 +1,5 @@
+
+*SRC=1S814;DS814;Diodes;Rectifier <=5A;1000V 0.5A
+.MODEL DS814 D (IS=5.59N RS=49M N=1.86 BV=1K IBV=220U
++ CJO=83.5P VJ=.75 M=.333 TT=2.88U)
+* Fujidenki 1000 Volt  0.5 Amp  2 us  Si Diode  11-11-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N4061;ZN4061;Diodes;Zener 10V-50V;21V 1.5W
+.MODEL ZN4061 D (IS=7.79N RS=32.4 N=1 BV=20.68 IBV=10M
++ CJO=82.8P VJ=1 M=.33 TT=50.1N)
+* Motorola 21 Volt  1.5 Watt  Zener Diode  06-15-1993

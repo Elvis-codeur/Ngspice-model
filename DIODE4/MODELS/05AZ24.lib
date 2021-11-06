@@ -1,0 +1,5 @@
+
+*SRC=05AZ24;Z05AZ24;Diodes;Zener 10V-50V;24V .5W
+.MODEL Z05AZ24 D (IS=67.2P RS=29.8 N=1 BV=23.86 IBV=5M
++ CJO=34.8P VJ=1 M=.33 TT=50.1N)
+* Toshiba 24 Volt  .5 Watt  Zener Diode  11-09-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N4078;ZN4078;Diodes;Zener >50V;105V 2W
+.MODEL ZN4078 D (IS=10.3N RS=689 N=1 BV=103.3 IBV=2.5M
++ CJO=33.1P VJ=1 M=.33 TT=50.1N)
+* Motorola 105 Volt  2 Watt  Zener Diode  06-15-1993

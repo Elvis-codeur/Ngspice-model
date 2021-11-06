@@ -1,0 +1,5 @@
+
+*SRC=BYV36E;BYV36E;Diodes;Rectifier <=5A;1000V 2A
+.MODEL BYV36E D (IS=159N RS=.436 N=2.36 BV=1333 IBV=5U
++ CJO=33.12P VJ=.3696 M=.364 TT=187N)
+* Philips   1000 Volt  1.5 Amp  .13 us  Si Diode  04-22-1991

@@ -1,0 +1,5 @@
+
+*SRC=BYV95B;BYV95B;Diodes;Rectifier <=5A;400V 1.5A
+.MODEL BYV95B D (IS=4.9N RS=.102 N=1.98 BV=533 IBV=1U
++ CJO=62.9P VJ=.75 M=.333 TT=360N)
+* Philips   400 Volt  1.5 Amp  .2 us  Si Diode  04-22-1991

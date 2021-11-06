@@ -1,0 +1,5 @@
+
+*SRC=BY397;BY397;Diodes;Rectifier <=5A;200V 3A
+.MODEL BY397 D (IS=22U RS=42M N=3.35 BV=200 IBV=10U
++ CJO=100P VJ=.75 M=.333 TT=585N)
+* Diotec 200 Volt  3 Amp  .5 us  Si Diode  02-08-1993

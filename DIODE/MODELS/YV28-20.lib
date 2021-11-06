@@ -1,0 +1,5 @@
+
+*SRC=BYV28-200;BYV28-20;Diodes;Rectifier <=5A;200V 3.5A
+.MODEL BYV28-20 D (IS=177N RS=54.8M N=1.89 BV=266 IBV=1U
++ CJO=198P VJ=.2073 M=.4150 TT=36N)
+* Philips   200 Volt  3.5 Amp  .025 us  Si Diode  04-22-1991

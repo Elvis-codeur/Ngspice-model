@@ -1,0 +1,5 @@
+
+*SRC=1N3913;DN3913;Diodes;Rectifier >5A;400V 30A
+.MODEL DN3913 D (IS=5.17E-09 N=1.61 BV=5.33E+02 IBV=1.00E-05
++ RS=3.77E-03 CJO=1.19E-10 VJ=.75 M=.26 TT=1.44E-07)
+* Motorola  400 Volt  30.00 Amp   0.10 us  Si Rectifier   Diode  06-27-1990

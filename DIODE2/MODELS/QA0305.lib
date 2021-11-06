@@ -1,0 +1,5 @@
+
+*SRC=EQA0305;EQA0305;Diodes;Zener <=10V;5V .4W
+.MODEL EQA0305 D (IS=553P RS=44.8 N=1 BV=4.778 IBV=5M
++ CJO=78P VJ=.75 M=.33 TT=50.1N)
+* Fuji 5 Volt  .4 Watt  Zener Diode  07-02-1993

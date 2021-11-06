@@ -1,0 +1,5 @@
+
+*SRC=1N4740;ZN4740;Diodes;Zener <=10V;10V 1W
+.MODEL ZN4740 D (IS=2.91F RS=2.71 N=1 BV=9.937 IBV=25M
++ CJO=68.9P VJ=.75 M=.33 TT=50.1N)
+* Motorola 10 Volt  1 Watt  Zener Diode  06-15-1993

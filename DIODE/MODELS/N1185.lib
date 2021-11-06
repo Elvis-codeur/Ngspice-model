@@ -1,0 +1,5 @@
+
+*SRC=1N1185;DN1185;Diodes;Rectifier >5A;150V 35A
+.MODEL DN1185 D (IS=23.4N RS=1.75M N=1.61 BV=200 IBV=4M
++ CJO=4.4N VJ=.75 M=.333 TT=144U)
+* Motorola   150 Volt  20 Amp  100 us  Si Diode  11-23-1990

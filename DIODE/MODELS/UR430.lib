@@ -1,0 +1,5 @@
+
+*SRC=MUR430;MUR430;Diodes;Rectifier <=5A;300V 4A
+.MODEL MUR430 D (IS=2.15U RS=24.9M N=2.68 BV=400 IBV=10U
++ CJO=43.3P VJ=.75 M=.333 TT=72N)
+*   Motorola 300 Volt  4 Amp  .05 us  Si Diode  04-26-1991

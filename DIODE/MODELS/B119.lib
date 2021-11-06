@@ -1,0 +1,5 @@
+
+*SRC=BB119;BB119;Diodes;Varactors;15V 22pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL BB119 D(M=0.301 VJ=0.74 CJO=46.8P BV=19.99 IBV=1.5N)
+* Philips  Si Varactor Diode 12-1-90

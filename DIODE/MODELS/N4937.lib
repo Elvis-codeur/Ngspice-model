@@ -1,0 +1,5 @@
+
+*SRC=1N4937;DN4937;Diodes;Rectifier <=5A;600V 1A
+.MODEL DN4937 D (IS=2.06E-08 N=2.00 BV=8.00E+02 IBV=1.00E-06
++ RS=2.26E-02 CJO=2.39E-11 VJ=.75 M=.41 TT=2.16E-07)
+* Motorola  600 Volt   1.00 Amp   0.15 us  Si Rectifier   Diode  06-28-1990

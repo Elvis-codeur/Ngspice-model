@@ -1,0 +1,5 @@
+
+*SRC=1N969B;ZN969B;Diodes;Zener 10V-50V;22V .4W
+.MODEL ZN969B D (IS=1P RS=24.3 N=1 BV=21.87 IBV=5.6M
++ CJO=32.2P VJ=1 M=.33 TT=50.1N)
+* Yunizon 22 Volt  .4 Watt  Zener Diode  11-11-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N987;DN987;Diodes;Zener >50V;120V .4W
+.MODEL DN987 D(RS=439.79 BV=119.54     
++ CJO=145.01P TT=20N N=2 IS=1E-9 IBV=1.0417M)   
+* Motorola  120.0 Volt Si Zener 10-26-1990

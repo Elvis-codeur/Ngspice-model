@@ -1,0 +1,5 @@
+
+*SRC=1N960;DN960;Diodes;Zener <=10V;9.1V .5W
+.MODEL DN960 D(RS=3.7754 BV=9.0481     
++ CJO=805.95P TT=20N N=2 IS=1E-9 IBV=13.736M)   
+* Motorola  9.1 Volt Si Zener 10-26-1990

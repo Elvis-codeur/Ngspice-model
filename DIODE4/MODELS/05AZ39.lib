@@ -1,0 +1,5 @@
+
+*SRC=05AZ39;Z05AZ39;Diodes;Zener 10V-50V;39V .5W
+.MODEL Z05AZ39 D (IS=2.59N RS=79.8 N=1 BV=38.62 IBV=5M
++ CJO=27.1P VJ=1 M=.33 TT=50.1N)
+* Toshiba 39 Volt  .5 Watt  Zener Diode  11-09-1993

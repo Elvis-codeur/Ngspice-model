@@ -1,0 +1,5 @@
+
+*SRC=02CZ9_1;Z02CZ9_1;Diodes;Zener <=10V;9.1V 200mW
+.MODEL Z02CZ9_1 D (IS=1.95F RS=12.8 N=1 BV=9.040 IBV=5M
++ CJO=15.8P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 9.1 Volt  .2 Watt  Zener Diode  11-08-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N935B;DN935B;Diodes;Zener <=10V;9V .5W
+.MODEL DN935B D (IS=400F RS=16.5 N=1 BV=8.880 IBV=7.5M
++ CJO=15P VJ=.75 M=.33 TT=14.1N)
+* Motorola 9 Volt  .5 Watt  Zener Diode  02-05-1993

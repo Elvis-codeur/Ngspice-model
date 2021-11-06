@@ -1,0 +1,5 @@
+
+*SRC=1N1200;DN1200;Diodes;Rectifier >5A;100V 12A
+.MODEL DN1200 D (IS=29.7N RS=10.6M N=1.70 BV=133 IBV=4.5M
++ CJO=494P VJ=.75 M=.333 TT=5.76U)
+* Motorola   100 Volt  12 Amp  60 us  Si Diode  11-23-1990

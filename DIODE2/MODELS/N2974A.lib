@@ -1,0 +1,5 @@
+
+*SRC=1N2974A;ZN2974A;Diodes;Zener <=10V;10V 10W
+.MODEL ZN2974A D (IS=.555F RS=.896 N=1 BV=9.780 IBV=.25
++ CJO=689P VJ=.75 M=.33 TT=50.1N)
+* Motorola 10 Volt  10 Watt  Zener Diode  06-15-1993

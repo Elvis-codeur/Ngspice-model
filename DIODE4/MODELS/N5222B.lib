@@ -1,0 +1,5 @@
+
+*SRC=1N5222B;ZN5222B;Diodes;Zener <=10V;2.5V .5W
+.MODEL ZN5222B D (IS=43.7P RS=28.7 N=1 BV=1.926 IBV=20M
++ CJO=275P VJ=.75 M=.33 TT=50.1N)
+* Nichiden 2.5 Volt  .5 Watt  Zener Diode  11-11-1993

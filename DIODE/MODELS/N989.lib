@@ -1,0 +1,5 @@
+
+*SRC=1N989;DN989;Diodes;Zener >50V;150V .4W
+.MODEL DN989 D(RS=756.45 BV=149.37     
++ CJO=125.02P TT=20N N=2 IS=1E-9 IBV=833.33U)   
+* Motorola  150.0 Volt Si Zener 10-26-1990

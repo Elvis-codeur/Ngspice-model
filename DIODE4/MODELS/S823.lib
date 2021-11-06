@@ -1,0 +1,5 @@
+
+*SRC=1S823;DS823;Diodes;Rectifier <=5A;800V 2.5A
+.MODEL DS823 D (IS=5.59N RS=20M N=1.7 BV=800 IBV=2M
++ CJO=83.5P VJ=.75 M=.333 TT=1.44U)
+* Fujidenki 800 Volt  2.5 Amp  1 us  Si Diode  11-11-1993

@@ -1,0 +1,5 @@
+
+*SRC=BYV36D;BYV36D;Diodes;Rectifier <=5A;800V 2A
+.MODEL BYV36D D (IS=159N RS=.436 N=2.36 BV=1066 IBV=5U
++ CJO=33.12P VJ=.3696 M=.364 TT=187N)
+* Philips   800 Volt  1.5 Amp  .13 us  Si Diode  04-22-1991

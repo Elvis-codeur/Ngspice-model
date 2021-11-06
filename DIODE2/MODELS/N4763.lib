@@ -1,0 +1,5 @@
+
+*SRC=1N4763;ZN4763;Diodes;Zener >50V;91V 1W
+.MODEL ZN4763 D (IS=2.67N RS=190 N=1 BV=90.51 IBV=2.8M
++ CJO=25.4P VJ=1 M=.33 TT=50.1N)
+* Motorola 91 Volt  1 Watt  Zener Diode  06-15-1993

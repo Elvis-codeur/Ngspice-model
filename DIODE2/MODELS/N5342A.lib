@@ -1,0 +1,5 @@
+
+*SRC=1N5342A;DN5342A;Diodes;Zener <=10V;6.8V 5W
+.MODEL DN5342A D (IS=7.56E-18 RS=.859 N=1 BV=6.645 IBV=.183
++ CJO=615P VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 6.8 Volt  5 Watt  Zener Diode  02-05-1993

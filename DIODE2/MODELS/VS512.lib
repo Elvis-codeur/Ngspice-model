@@ -1,0 +1,5 @@
+
+*SRC=TVS512;TVS512;Diodes;Zener 10V-50V;13.8V 5W
+.MODEL TVS512 D (IS=1.29U RS=15.5 N=1 BV=13.48 IBV=1M
++ CJO=1.68N VJ=.75 M=.333 TT=36U)
+* Unitrode 13.8 Volt  5 Watt  Zener Diode  10-12-1991

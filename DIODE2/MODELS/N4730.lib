@@ -1,0 +1,5 @@
+
+*SRC=1N4730;ZN4730;Diodes;Zener <=10V;3.9V 1W
+.MODEL ZN4730 D (IS=.663F RS=.795 N=1 BV=3.851 IBV=64M
++ CJO=283P VJ=.75 M=.33 TT=50.1N)
+* Motorola 3.9 Volt  1 Watt  Zener Diode  06-15-1993

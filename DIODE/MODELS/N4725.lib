@@ -1,0 +1,5 @@
+
+*SRC=1N4725;DN4725;Diodes;Rectifier <=5A;1000V 3A
+.MODEL DN4725 D (IS=462P RS=11.5M N=1.42 BV=1333 IBV=.5M
++ CJO=124P VJ=.75 M=.333 TT=21.6U)
+* Motorola   1000 Volt  3 Amp  15 us  Si Diode  11-23-1990

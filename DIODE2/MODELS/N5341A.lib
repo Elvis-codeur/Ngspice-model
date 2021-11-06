@@ -1,0 +1,5 @@
+
+*SRC=1N5341A;DN5341A;Diodes;Zener <=10V;6.2V 5W
+.MODEL DN5341A D (IS=7.93E-18 RS=.871 N=1 BV=6.027 IBV=.201
++ CJO=706P VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 6.2 Volt  5 Watt  Zener Diode  02-05-1993

@@ -1,0 +1,5 @@
+
+*SRC=BAX12;BAX12;Diodes;Rectifier <=5A;90V 800mA
+.MODEL BAX12 D (IS=2.96E-08 N=1.95 BV=1.20E+02 IBV=1.00E-07
++ RS=5.25E-02 CJO=1.50E-11 VJ=.75 M=.333 TT=5.76E-08)
+* Philips  90 Volt   0.80 Amp   0.05 us  Si Rectifier   Diode  07-05-1990

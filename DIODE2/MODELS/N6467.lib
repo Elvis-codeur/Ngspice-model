@@ -1,0 +1,5 @@
+
+*SRC=1N6467;ZN6467;Diodes;Zener 10V-50V;43.7V 2.5W
+.MODEL ZN6467 D (IS=2.07U RS=61.4 N=1 BV=43.40 IBV=1M
++ CJO=1.67N VJ=.75 M=.333 TT=7.2U)
+* Unitrode 43.7 Volt  2.5 Watt  Zener Diode  10-12-1991

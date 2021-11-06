@@ -1,0 +1,5 @@
+
+*SRC=05AZ6_2;Z05AZ6_2;Diodes;Zener <=10V;6.2V .5W
+.MODEL Z05AZ6_2 D (IS=19.4F RS=8.7 N=1 BV=6.028 IBV=20M
++ CJO=70.6P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 6.2 Volt  .5 Watt  Zener Diode  11-09-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N5337A;DN5337A;Diodes;Zener <=10V;4.7V 5W
+.MODEL DN5337A D (IS=.42F RS=1.9 N=1 BV=4.208 IBV=.26
++ CJO=1.07N VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 4.7 Volt  5 Watt  Zener Diode  02-05-1993

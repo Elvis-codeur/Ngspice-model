@@ -1,0 +1,5 @@
+
+*SRC=1N5346A;DN5346A;Diodes;Zener <=10V;9.1V 5W
+.MODEL DN5346A D (IS=.317F RS=1.82 N=1 BV=8.830 IBV=.15
++ CJO=397P VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 9.1 Volt  5 Watt  Zener Diode  02-05-1993

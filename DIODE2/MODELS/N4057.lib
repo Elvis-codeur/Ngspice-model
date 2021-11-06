@@ -1,0 +1,5 @@
+
+*SRC=1N4057;ZN4057;Diodes;Zener 10V-50V;12.4V 1.5W
+.MODEL ZN4057 D (IS=7.79N RS=22.4 N=1 BV=12.18 IBV=10M
++ CJO=129P VJ=1 M=.33 TT=50.1N)
+* Motorola 12.4 Volt  1.5 Watt  Zener Diode  06-15-1993

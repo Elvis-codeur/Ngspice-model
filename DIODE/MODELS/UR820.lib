@@ -1,0 +1,5 @@
+
+*SRC=MUR820;MUR820;Diodes;Rectifier >5A;200V 8A
+.MODEL MUR820 D (IS=307U RS=22M N=3.85 BV=200 IBV=10U
++ CJO=330P VJ=.75 M=.333 TT=79.2N)
+* Motorola  200 Volt  8 Amp  55M us  Si Diode  02-24-1994

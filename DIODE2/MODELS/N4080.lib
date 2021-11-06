@@ -1,0 +1,5 @@
+
+*SRC=1N4080;ZN4080;Diodes;Zener >50V;120V 2W
+.MODEL ZN4080 D (IS=10.3N RS=790 N=1 BV=118.0 IBV=2.5M
++ CJO=30.8P VJ=1 M=.33 TT=50.1N)
+* Motorola 120 Volt  2 Watt  Zener Diode  06-15-1993

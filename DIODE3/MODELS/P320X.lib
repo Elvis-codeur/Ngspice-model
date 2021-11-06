@@ -1,0 +1,6 @@
+
+*SRC=HSCH-320X;HP320X;Diodes;Schottky;400V .5A
+.MODEL HP320X D (IS=70N RS=10 N=1.08 BV=4 IBV=10U
++ CJO=.15P VJ=.5 M=.5 EG=.69 TT=72P)
+* 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993
+* H-P HSCH-320X 

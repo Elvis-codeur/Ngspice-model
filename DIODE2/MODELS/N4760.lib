@@ -1,0 +1,5 @@
+
+*SRC=1N4760;ZN4760;Diodes;Zener >50V;68V 1W
+.MODEL ZN4760 D (IS=2.67N RS=93 N=1 BV=67.68 IBV=3.7M
++ CJO=28.9P VJ=1 M=.33 TT=50.1N)
+* Motorola 68 Volt  1 Watt  Zener Diode  06-15-1993

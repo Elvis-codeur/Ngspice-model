@@ -1,0 +1,5 @@
+
+*SRC=TVS305;TVS305;Diodes;Zener <=10V;6V 3W
+.MODEL TVS305 D (IS=389N RS=33.3M N=1 BV=5.684 IBV=1M
++ CJO=900P VJ=.75 M=.333 TT=21.6U)
+* Unitrode 6 Volt  3 Watt  Zener Diode  10-12-1991

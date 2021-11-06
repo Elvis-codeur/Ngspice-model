@@ -1,0 +1,5 @@
+
+*SRC=BYV95C;BYV95C;Diodes;Rectifier <=5A;600V 1.5A
+.MODEL BYV95C D (IS=4.9N RS=.102 N=1.98 BV=900 IBV=1U
++ CJO=62.9P VJ=.75 M=.333 TT=360N)
+* Philips   600 Volt  1.5 Amp  .2 us  Si Diode  04-22-1991

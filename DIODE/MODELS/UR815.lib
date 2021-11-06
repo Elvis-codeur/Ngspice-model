@@ -1,0 +1,5 @@
+
+*SRC=MUR815;MUR815;Diodes;Rectifier >5A;150V 8A
+.MODEL MUR815 D (IS=1.47E-07 N=1.86 BV=2.00E+02 IBV=5.00E-06
++ RS=5.31E-03 CJO=2.65E-10 VJ=.75 M=.41 TT=5.04E-08)
+* Motorola  150 Volt   8.00 Amp   0.04 us  Si Rectifier   Diode  07-01-1990

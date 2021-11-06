@@ -1,0 +1,6 @@
+
+*SRC=LM185;ZLM185;Diodes;Zener <=10V;2.5V 50mW
+.MODEL ZLM185 D (IS=13.6F RS=2 N=1 BV=2.483 IBV=9M
++ CJO=27.5P VJ=.75 M=.33 TT=50.1N)
+* 2.5 Volt  50M Watt  Zener Diode  12-15-1995
+*Texas Instruments LM185 voltage reference

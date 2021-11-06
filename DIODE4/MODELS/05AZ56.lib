@@ -1,0 +1,5 @@
+
+*SRC=05AZ56;Z05AZ56;Diodes;Zener >50V;56V .5W
+.MODEL Z05AZ56 D (IS=2.59N RS=104 N=1 BV=55.50 IBV=5M
++ CJO=23.4P VJ=1 M=.33 TT=50.1N)
+* Toshiba 56 Volt  .5 Watt  Zener Diode  11-09-1993

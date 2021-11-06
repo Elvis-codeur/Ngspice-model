@@ -1,0 +1,6 @@
+
+*SRC=HSMS-8202;HP8202;Diodes;Schottky;400V .5A
+.MODEL HP8202 D (IS=46N RS=6 N=1.08 BV=7.3 IBV=10U
++ CJO=.18P VJ=.5 M=.5 EG=.69 TT=72P)
+* 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993 
+* H-P HSMS-8002, HSMS-8202

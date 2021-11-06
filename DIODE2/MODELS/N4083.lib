@@ -1,0 +1,5 @@
+
+*SRC=1N4083;ZN4083;Diodes;Zener >50V;150V 2.5W
+.MODEL ZN4083 D (IS=12.9N RS=1.01K N=1 BV=147.5 IBV=2.5M
++ CJO=30.8P VJ=1 M=.33 TT=50.1N)
+* Motorola 150 Volt  2.5 Watt  Zener Diode  06-15-1993

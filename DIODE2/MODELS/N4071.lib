@@ -1,0 +1,5 @@
+
+*SRC=1N4071;ZN4071;Diodes;Zener >50V;62V 2W
+.MODEL ZN4071 D (IS=10.3N RS=131 N=1 BV=61.04 IBV=7.5M
++ CJO=45.6P VJ=1 M=.33 TT=50.1N)
+* Motorola 62 Volt  2 Watt  Zener Diode  06-15-1993

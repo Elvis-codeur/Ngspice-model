@@ -1,0 +1,5 @@
+
+*SRC=1N4068;ZN4068;Diodes;Zener 10V-50V;47V 1.5W
+.MODEL ZN4068 D (IS=7.79N RS=96.5 N=1 BV=46.29 IBV=7.5M
++ CJO=45.3P VJ=1 M=.33 TT=50.1N)
+* Motorola 47 Volt  1.5 Watt  Zener Diode  06-15-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N5831;DN5831;Diodes;Schottky;50V 25A
+.MODEL DN5831 D (IS=195N RS=6.3M N=.67 BV=40 IBV=35U
++ CJO=7.56N VJ=.75 M=.333 TT=720N XTI=2 EG=0.69)
+* Motorola 40 Volt  25 Amp  .5 us  Si Diode  02-24-1994

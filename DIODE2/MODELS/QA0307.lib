@@ -1,0 +1,5 @@
+
+*SRC=EQA0307;EQA0307;Diodes;Zener <=10V;7.2V .4W
+.MODEL EQA0307 D (IS=5.17F RS=7.32 N=1 BV=7.166 IBV=5M
++ CJO=45.1P VJ=.75 M=.33 TT=50.1N)
+* Fuji 7.2 Volt  .4 Watt  Zener Diode  07-02-1993

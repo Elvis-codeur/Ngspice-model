@@ -1,0 +1,5 @@
+
+*SRC=05AZ36;Z05AZ36;Diodes;Zener 10V-50V;36V .5W
+.MODEL Z05AZ36 D (IS=2.59N RS=69.8 N=1 BV=35.66 IBV=5M
++ CJO=28.2P VJ=1 M=.33 TT=50.1N)
+* Toshiba 36 Volt  .5 Watt  Zener Diode  11-09-1993

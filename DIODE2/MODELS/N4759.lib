@@ -1,0 +1,5 @@
+
+*SRC=1N4759;ZN4759;Diodes;Zener >50V;62V 1W
+.MODEL ZN4759 D (IS=2.67N RS=78.5 N=1 BV=61.71 IBV=4M
++ CJO=30.3P VJ=1 M=.33 TT=50.1N)
+* Motorola 62 Volt  1 Watt  Zener Diode  06-15-1993

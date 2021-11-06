@@ -1,0 +1,5 @@
+
+*SRC=MBR140P;MBR140P;Diodes;Schottky;40V 1A
+.MODEL MBR140P D (IS=1.65E-05 N=1.40 BV=5.33E+01 IBV=6.00E-04
++ RS=4.47E-02 CJO=1.44E-10 VJ=.75 M=.67 TT=7.20E-11 XTI=2 EG=.69)
+* Motorola 40 Volt   1.00 Amp   Si Schottky   Diode  07-05-1990

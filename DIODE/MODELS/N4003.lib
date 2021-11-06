@@ -1,0 +1,5 @@
+
+*SRC=1N4003;DN4003;Diodes;Rectifier <=5A;200V 1A
+.MODEL DN4003 D (IS=5.86E-06 N=1.70 BV=2.66E+02 IBV=5.00E-07
++ RS=4.22E-02 CJO=5.21E-11 VJ=.34 M=.38 TT=5.04E-06)
+* Motorola  200 Volt   1.00 Amp   3.50 us  Si Rectifier   Diode  07-01-1990

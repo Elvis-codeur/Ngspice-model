@@ -1,0 +1,5 @@
+
+*SRC=HSCH-3486;HP3486;Diodes;Schottky;400V .5A
+.MODEL HP3486 D (IS=5U RS=50 N=1.08 BV=2.5 IBV=35U
++ CJO=.2P VJ=.35 M=.5 EG=.69 TT=72P)
+* H-P HSCH-3486 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993 

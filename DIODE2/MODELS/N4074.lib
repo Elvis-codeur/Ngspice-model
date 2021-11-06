@@ -1,0 +1,5 @@
+
+*SRC=1N4074;ZN4074;Diodes;Zener >50V;82V 2W
+.MODEL ZN4074 D (IS=10.3N RS=264 N=1 BV=80.71 IBV=5M
++ CJO=38.1P VJ=1 M=.33 TT=50.1N)
+* Motorola 82 Volt  2 Watt  Zener Diode  06-15-1993

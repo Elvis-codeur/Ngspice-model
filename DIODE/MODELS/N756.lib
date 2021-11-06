@@ -1,0 +1,5 @@
+
+*SRC=1N756;DN756;Diodes;Zener <=10V;8.2V .5W
+.MODEL DN756 D(RS=3.8580 BV=8.1228     
++ CJO=274.93P TT=50N M=.33 VJ=.75 IS=1E-11 N=1.27 IBV=10MA)     
+* Motorola  8.2 Volt Si Zener 10-26-1990

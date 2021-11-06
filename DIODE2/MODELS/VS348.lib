@@ -1,0 +1,5 @@
+
+*SRC=TVS348;TVS348;Diodes;Zener >50V;54V 3W
+.MODEL TVS348 D (IS=389N RS=80.3 N=1 BV=53.70 IBV=1M
++ CJO=360P VJ=.75 M=.333 TT=21.6U)
+* Unitrode 54 Volt  3 Watt  Zener Diode  10-12-1991

@@ -1,0 +1,5 @@
+
+*SRC=BAS11;BAS11;Diodes;Rectifier <=5A;300V .3A
+.MODEL BAS11 D (IS=426P RS=.14 N=1.70 BV=433 IBV=80N
++ CJO=10P VJ=.75 M=.333 TT=1.44U)
+* Philips   300 Volt  .3 Amp  1 us  Si Diode  11-23-1990

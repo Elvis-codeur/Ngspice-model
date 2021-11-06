@@ -1,0 +1,5 @@
+
+*SRC=1N4738;ZN4738;Diodes;Zener <=10V;8.2V 1W
+.MODEL ZN4738 D (IS=1.06F RS=1.41 N=1 BV=8.160 IBV=31M
++ CJO=92.8P VJ=.75 M=.33 TT=50.1N)
+* Motorola 8.2 Volt  1 Watt  Zener Diode  06-15-1993

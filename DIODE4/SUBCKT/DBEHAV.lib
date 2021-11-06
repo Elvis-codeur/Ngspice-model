@@ -1,0 +1,29 @@
+
+*SRC=DBEHAV;DBEHAV;Generic Models;Diode;Soft Recovery
+*SYM=SOFTG
+*HELP issyntax.hlp "Soft Recovery Diodes"
+.SUBCKT DBEHAV 1 9 {IS1=1E-6 TM=100N TAU=100N RMO=1 VTA=.0259 CAP=100P ISE=1E-30}
+* Connections  A C
+* Following components include for space charge capacitance.
+DMODEL 1 2 DCAP
+.MODEL DCAP D (IS=1E-21 RS=0 TT=0 CJO={CAP})
+BD 1 2 I=(V(5,6) / {TM}) + ({ISE} * (EXPL(((V(1) - V(2)) / {VTA}),50) - 1))
+* Following components model reverse recovery.
+BE 5 0 V={IS1} * {TAU} * (EXPL(((V(1) - V(2)) / (2*{VTA})),50) - 1)
+* set EE=QE
+RE 5 0 1E6
+BM 6 0 V=(V(5) / {TM} - I(VS1)) * ({TM} * {TAU} / ({TM} + {TAU}))
+* set EM=QM
+RM 6 0 1E6
+BDM 7 0 V=V(6)
+* set EDM=QM
+VS1 7 8
+* set I(VS1)=DQM/DT
+CDM 8 0 1
+RDM 8 0 1E9
+* Model high current effects and forward recovery.
+RS 2 3 4E-3
+BMO 3 4 V=2*{VTA}*{RMO}*{TM}*I(VS2) / ((V(6)*{RMO}) + ({VTA}*{TM}))
+* FOR VM
+VS2 4 9
+.ENDS

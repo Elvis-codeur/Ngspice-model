@@ -1,0 +1,5 @@
+
+*SRC=RGP30M;RGP30M;Diodes;Rectifier <=5A;1000V 3A
+.MODEL RGP30M D (IS=22U RS=42M N=3.35 BV=1K IBV=10U
++ CJO=100P VJ=.75 M=.333 TT=570N)
+* Diotec 1000 Volt  3 Amp  .5 us  Si Diode  02-08-1993

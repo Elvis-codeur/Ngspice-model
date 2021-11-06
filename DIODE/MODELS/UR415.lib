@@ -1,0 +1,5 @@
+
+*SRC=MUR415;MUR415;Diodes;Rectifier <=5A;150V 4A
+.MODEL MUR415 D (IS=46.8N RS=7.36M N=1.67 BV=200 IBV=5U
++ CJO=137P VJ=.75 M=.333 TT=36N)
+* Motorola 150 Volt  4 Amp  .025 us  Si Diode  04-26-1991

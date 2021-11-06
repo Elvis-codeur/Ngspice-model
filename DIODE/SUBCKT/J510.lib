@@ -1,0 +1,11 @@
+
+*SRC=J510;J510;Diodes;JFET Regulator;100V 3.6mA
+*SYM=CRDIODE
+.SUBCKT J510 1     2
+*Connections Anode Cathode 
+JFET 1 2 2 J510
+.MODEL J510 NJF (VTO=-1.80 BETA=1.45M LAMBDA=1.1M RD=360
++ RS=66 IS=1.58F PB=1 FC=.5 CGS=5.57P CGD=3.78P)
+*  100 Volt    Dep-Mode N-Channel J-FET Diode 05-10-1991
+*  Siliconix 
+.ENDS

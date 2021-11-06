@@ -1,0 +1,6 @@
+
+*SRC=1N6282;ZN6282;Diodes;Zener 10V-50V;30V 5W
+.MODEL ZN6282 D (IS=1.51N RS=20M N=1 BV=30.01 IBV=1M
++ CJO=6.5N VJ=1 M=.33 TT=50.1N)
+* Motorola 30 Volt  5 Watt  Zener Diode  12-23-1992
+* Equivalent to the 1.5KE30

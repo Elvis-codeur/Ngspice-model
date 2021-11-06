@@ -1,0 +1,5 @@
+
+*SRC=1N4936;DN4936;Diodes;Rectifier <=5A;400V 1A
+.MODEL DN4936 D (IS=2.06E-08 N=2.00 BV=5.33E+02 IBV=1.00E-06
++ RS=2.26E-02 CJO=2.39E-11 VJ=.75 M=.41 TT=2.16E-07)
+* Motorola  400 Volt   1.00 Amp   0.15 us  Si Rectifier   Diode  06-28-1990

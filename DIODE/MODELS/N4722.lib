@@ -1,0 +1,5 @@
+
+*SRC=1N4722;DN4722;Diodes;Rectifier <=5A;400V 3A
+.MODEL DN4722 D (IS=462P RS=11.5M N=1.42 BV=533 IBV=.5M
++ CJO=124P VJ=.75 M=.333 TT=21.6U)
+* Motorola   400 Volt  3 Amp  15 us  Si Diode  11-23-1990

@@ -1,0 +1,5 @@
+
+*SRC=1N5147;DN5147;Diodes;Varactors;60V 39pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL DN5147 D(M=0.4825 VJ=.354 CJO=72.10P BV=90 IBV=10N)
+* Motorola  CT=39P @ 4V Si Varactor Diode 5-5-91

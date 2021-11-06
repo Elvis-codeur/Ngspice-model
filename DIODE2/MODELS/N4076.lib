@@ -1,0 +1,5 @@
+
+*SRC=1N4076;ZN4076;Diodes;Zener >50V;91V 2W
+.MODEL ZN4076 D (IS=10.3N RS=304 N=1 BV=89.52 IBV=5M
++ CJO=35.8P VJ=1 M=.33 TT=50.1N)
+* Motorola 91 Volt  2 Watt  Zener Diode  06-15-1993

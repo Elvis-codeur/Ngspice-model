@@ -1,0 +1,5 @@
+
+*SRC=1N914;DN914;Diodes;Switching;100V 75mA
+.MODEL DN914 D (IS=4.77E-10 N=1.59 BV=133.3 IBV=1.00E-07
++ RS=6.01E-01 CJO=4.00E-12 VJ=.75 M=.333 TT=5.76E-09)
+* Unitrode 100 Volt   0.08 Amp   4.00 ns  Si Switching   Diode  07-01-1990

@@ -1,0 +1,5 @@
+
+*SRC=1N5533B;ZN5533B;Diodes;Zener 10V-50V;13V .4W
+.MODEL ZN5533B D (IS=2.07N RS=64.1 N=1 BV=12.94 IBV=1M
++ CJO=44.2P VJ=1 M=.33 TT=50.1N)
+* Motorola 13 Volt  .4 Watt  Zener Diode  12-11-1995

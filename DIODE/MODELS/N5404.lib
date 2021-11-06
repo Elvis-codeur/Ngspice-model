@@ -1,0 +1,5 @@
+
+*SRC=1N5404;DN5404;Diodes;Rectifier <=5A;400V 3A
+.MODEL DN5404 D (IS=2.68P RS=7.31M N=1.17 BV=533 IBV=10U
++ CJO=124P VJ=.6 M=.333 TT=14.4U)
+* Motorola   400 Volt  3 Amp  15 us  Si Diode  11-23-1990

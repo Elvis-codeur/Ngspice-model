@@ -1,0 +1,5 @@
+
+*SRC=1N4081;ZN4081;Diodes;Zener >50V;130V 2.5W
+.MODEL ZN4081 D (IS=12.9N RS=830 N=1 BV=127.9 IBV=2.5M
++ CJO=33.2P VJ=1 M=.33 TT=50.1N)
+* Motorola 130 Volt  2.5 Watt  Zener Diode  06-15-1993

@@ -1,0 +1,5 @@
+
+*SRC=05AZ62;Z05AZ62;Diodes;Zener >50V;62V .5W
+.MODEL Z05AZ62 D (IS=2.59N RS=187 N=1 BV=61.65 IBV=2M
++ CJO=22.6P VJ=1 M=.33 TT=50.1N)
+* Toshiba 62 Volt  .5 Watt  Zener Diode  11-09-1993

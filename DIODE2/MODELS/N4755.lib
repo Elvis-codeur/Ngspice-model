@@ -1,0 +1,5 @@
+
+*SRC=1N4755;ZN4755;Diodes;Zener 10V-50V;43V 1W
+.MODEL ZN4755 D (IS=2.67N RS=40.7 N=1 BV=42.77 IBV=6M
++ CJO=37.1P VJ=1 M=.33 TT=50.1N)
+* Motorola 43 Volt  1 Watt  Zener Diode  06-15-1993

@@ -1,0 +1,5 @@
+
+*SRC=1N4733;ZN4733;Diodes;Zener <=10V;5.1V 1W
+.MODEL ZN4733 D (IS=.703F RS=.871 N=1 BV=5.059 IBV=49M
++ CJO=189P VJ=.75 M=.33 TT=50.1N)
+* Motorola 5.1 Volt  1 Watt  Zener Diode  06-15-1993

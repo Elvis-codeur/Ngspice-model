@@ -1,0 +1,5 @@
+
+*SRC=1N3881;DN3881;Diodes;Rectifier >5A;200V 6A
+.MODEL DN3881 D (IS=2.01E-11 N=1.70 BV=2.66E+02 IBV=1.00E-05
++ RS=1.24E-02 CJO=1.19E-10 VJ=.75 M=.26 TT=1.44E-07)
+* Motorola  200 Volt   6.00 Amp   0.10 us  Si Rectifier   Diode  06-27-1990

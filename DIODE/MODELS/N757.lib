@@ -1,0 +1,5 @@
+
+*SRC=1N757;DN757;Diodes;Zener <=10V;9.1V .5W
+.MODEL DN757 D(RS=5.6718 BV=8.9866     
++ CJO=252.30P TT=50N M=.33 VJ=.75 IS=1E-11 N=1.27 IBV=10MA)     
+* Motorola  9.1 Volt Si Zener 10-26-1990

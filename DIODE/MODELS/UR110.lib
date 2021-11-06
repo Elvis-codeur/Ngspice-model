@@ -1,0 +1,5 @@
+
+*SRC=MUR110;MUR110;Diodes;Rectifier <=5A;100V 1A
+.MODEL MUR110 D (IS=13.5N RS=25.7M N=1.59 BV=133.3 IBV=2U
++ CJO=45P VJ=.75 M=.302 TT=50.4N)
+* Motorola  100 Volt  1 Amp  .025 us  Si Diode  04-22-1991

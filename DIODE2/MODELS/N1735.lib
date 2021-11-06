@@ -1,0 +1,5 @@
+
+*SRC=1N1735;ZN1735;Diodes;Zener <=10V;6.2V .2W
+.MODEL ZN1735 D (IS=1.6F RS=11.5 N=1 BV=6.116 IBV=7.5M
++ CJO=28.2P VJ=.75 M=.33 TT=50.1N)
+* Motorola 6.2 Volt  .2 Watt  Zener Diode  06-15-1993

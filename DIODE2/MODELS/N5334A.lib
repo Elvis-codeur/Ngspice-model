@@ -1,0 +1,5 @@
+
+*SRC=1N5334A;DN5334A;Diodes;Zener <=10V;3.6V 5W
+.MODEL DN5334A D (IS=3.2F RS=2.42 N=1 BV=2.752 IBV=.35
++ CJO=1.59N VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 3.6 Volt  5 Watt  Zener Diode  02-05-1993

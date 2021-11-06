@@ -1,0 +1,5 @@
+
+*SRC=MUR605CT;MUR605CT;Diodes;Rectifier >5A;50V 6A
+.MODEL MUR605CT D (IS=3.02U RS=13.3M N=2.51 BV=66.6 IBV=20N
++ CJO=197P VJ=.75 M=.333 TT=40.2N)
+*   Motorola 50 Volt  3 Amp  .03 us  Si Diode  04-26-1991

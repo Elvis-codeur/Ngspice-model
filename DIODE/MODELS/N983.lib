@@ -1,0 +1,5 @@
+
+*SRC=1N983;DN983;Diodes;Zener >50V;82V .5W
+.MODEL DN983 D(RS=167.15 BV=81.745     
++ CJO=186.80P TT=20N N=2 IS=1E-9 IBV=1.5244M)   
+* Motorola  82.0 Volt Si Zener 10-26-1990

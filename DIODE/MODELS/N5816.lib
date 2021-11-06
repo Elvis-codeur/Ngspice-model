@@ -1,0 +1,5 @@
+
+*SRC=1N5816;DN5816;Diodes;Rectifier >5A;150V 20A
+.MODEL DN5816 D(RS=.004 CJO=600PF IS=16E-7 VJ=.6V    
++ TT=22NS M=.38 IBV=100UA BV=190 N=2)
+* Unitrode  150 Volt 20 Amp   35ns Si Rectifier 10-26-1990

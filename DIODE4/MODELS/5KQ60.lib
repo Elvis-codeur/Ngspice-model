@@ -1,0 +1,5 @@
+
+*SRC=5KQ60;D5KQ60;Diodes;Schottky;60V 5A
+.MODEL D5KQ60 D (IS=183.4N RS=28M N=1.01 BV=60 IBV=5M
++ CJO=206P VJ=.75 M=.333 TT=72N EG=0.69 XTI=2)
+* Nippon Inta 60 Volt  5 Amp  50M us  Si Diode  11-16-1993

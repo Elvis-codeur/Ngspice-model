@@ -1,0 +1,5 @@
+
+*SRC=1S313;DS313;Diodes;Rectifier <=5A;300V 0.5A
+.MODEL DS313 D (IS=18.4N RS=42M N=1.75 BV=300 IBV=220U
++ CJO=206P VJ=.75 M=.333 TT=561N)
+* Hitachi 300 Volt  0.5 Amp  .39 us  Si Diode  11-09-1993

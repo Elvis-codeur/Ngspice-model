@@ -1,0 +1,5 @@
+
+*SRC=1N3902;DN3902;Diodes;Rectifier >5A;300V 20A
+.MODEL DN3902 D (IS=3.29E-08 N=1.97 BV=4.00E+02 IBV=1.00E-05
++ RS=4.60E-03 CJO=1.66E-10 VJ=.25 M=.2 TT=1.44E-07)
+* Motorola  300 Volt  20.00 Amp   0.10 us  Si Rectifier   Diode  06-27-1990

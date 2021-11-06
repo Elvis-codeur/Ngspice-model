@@ -1,0 +1,5 @@
+
+*SRC=1N984;DN984;Diodes;Zener >50V;91V .5W
+.MODEL DN984 D(RS=216.22 BV=90.703     
++ CJO=174.30P TT=20N N=2 IS=1E-9 IBV=1.3736M)   
+* Motorola  91.0 Volt Si Zener 10-26-1990

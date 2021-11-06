@@ -1,0 +1,5 @@
+
+*SRC=BYV96E;BYV96E;Diodes;Rectifier <=5A;1000V 1.5A
+.MODEL BYV96E D (IS=4.9N RS=.102 N=1.98 BV=1333 IBV=1U
++ CJO=62.9P VJ=.75 M=.333 TT=395N)
+* Philips   1000 Volt  1.5 Amp  .25 us  Si Diode  04-22-1991

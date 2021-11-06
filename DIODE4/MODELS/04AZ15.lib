@@ -1,0 +1,5 @@
+
+*SRC=04AZ15;Z04AZ15;Diodes;Zener 10V-50V;15V .4W
+.MODEL Z04AZ15 D (IS=245F RS=19.8 N=1 BV=14.90 IBV=5M
++ CJO=40.3P VJ=1 M=.33 TT=50.1N)
+* Toshiba 15 Volt  .4 Watt  Zener Diode  11-08-1993

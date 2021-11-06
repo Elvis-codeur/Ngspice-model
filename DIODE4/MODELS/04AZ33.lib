@@ -1,0 +1,5 @@
+
+*SRC=04AZ33;Z04AZ33;Diodes;Zener 10V-50V;33V .4W
+.MODEL Z04AZ33 D (IS=2.07N RS=59.8 N=1 BV=32.71 IBV=5M
++ CJO=26.5P VJ=1 M=.33 TT=50.1N)
+* Toshiba 33 Volt  .4 Watt  Zener Diode  11-08-1993

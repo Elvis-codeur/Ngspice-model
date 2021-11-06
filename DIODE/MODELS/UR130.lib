@@ -1,0 +1,5 @@
+
+*SRC=MUR130;MUR130;Diodes;Rectifier <=5A;300V 1A
+.MODEL MUR130 D (IS=1.08U RS=55.5M N=2.59 BV=400 IBV=5U
++ CJO=15.7P VJ=.75 M=.310 TT=108N)
+* Motorola  300 Volt  1 Amp  .05 us  Si Diode  04-22-1991

@@ -1,0 +1,5 @@
+
+*SRC=1N3903;DN3903;Diodes;Rectifier >5A;400V 20A
+.MODEL DN3903 D (IS=3.29E-08 N=1.97 BV=5.33E+02 IBV=1.00E-05
++ RS=4.60E-03 CJO=1.66E-10 VJ=.25 M=.2 TT=1.44E-07)
+* Motorola  400 Volt  20.00 Amp   0.10 us  Si Rectifier   Diode  06-27-1990

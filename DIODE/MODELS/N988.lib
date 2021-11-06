@@ -1,0 +1,5 @@
+
+*SRC=1N988;DN988;Diodes;Zener >50V;130V .4W
+.MODEL DN988 D(RS=538.21 BV=129.48     
++ CJO=137.50P TT=20N N=2 IS=1E-9 IBV=961.54U)   
+* Motorola  130.0 Volt Si Zener 10-26-1990

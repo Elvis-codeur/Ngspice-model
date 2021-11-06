@@ -1,0 +1,5 @@
+
+*SRC=1N5335A;DN5335A;Diodes;Zener <=10V;3.9V 5W
+.MODEL DN5335A D (IS=.452F RS=1.92 N=1 BV=3.287 IBV=.32
++ CJO=1.41N VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 3.9 Volt  5 Watt  Zener Diode  02-05-1993

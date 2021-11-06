@@ -1,0 +1,5 @@
+
+*SRC=1N4745;ZN4745;Diodes;Zener 10V-50V;16V 1W
+.MODEL ZN4745 D (IS=102F RS=7.33 N=1 BV=15.89 IBV=15.5M
++ CJO=74.4P VJ=1 M=.33 TT=50.1N)
+* Motorola 16 Volt  1 Watt  Zener Diode  06-15-1993

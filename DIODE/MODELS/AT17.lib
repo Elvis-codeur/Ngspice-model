@@ -1,0 +1,5 @@
+
+*SRC=BAT17;BAT17;Diodes;Schottky;4V 30mA
+.MODEL BAT17 D (IS=1.38E-09 N=1.03 BV=5.33E+00 IBV=2.50E-07
++ RS=4.84E+00 CJO=8.00E-13 VJ=.75 M=.333 XTI=2 EG=0.69 TT=1.44E-12)
+* Philips  4 Volt   0.03 Amp    Si Schottky   Diode  07-06-1990

@@ -1,0 +1,5 @@
+
+*SRC=MUR890;MUR890;Diodes;Rectifier >5A;900V 8A
+.MODEL MUR890 D (IS=494U RS=35M N=5.36 BV=900 IBV=25U
++ CJO=397P VJ=.75 M=.333 TT=122N)
+* Motorola  900 Volt  8 Amp  85M us  Si Diode  02-24-1994

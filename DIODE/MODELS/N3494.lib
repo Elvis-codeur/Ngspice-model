@@ -1,0 +1,5 @@
+
+*SRC=1N3494;DN3494;Diodes;Rectifier >5A;300V 25A
+.MODEL DN3494 D (IS=4.12E-10 N=1.24 BV=4.00E+02 IBV=1.00E-03
++ RS=4.31E-03 CJO=9.28E-10 VJ=.29 M=0.55 TT=3.08E-06)
+* Motorola  300 Volt  25.00 Amp   5.50 us  Si Rectifier   Diode  06-25-1990

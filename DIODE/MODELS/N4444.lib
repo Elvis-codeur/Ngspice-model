@@ -1,0 +1,5 @@
+
+*SRC=1N4444;DN4444;Diodes;Switching;70V 200mA
+.MODEL DN4444 D (IS=4.54E-09 N=1.92 BV=9.33E+01 IBV=5.00E-08
++ RS=6.57E-01 CJO=2.00E-12 VJ=.75 M=.333 TT=1.01E-08)
+* Unitrode  70 Volt   0.20 Amp   0.01 us  Si Switching   Diode  07-01-1990

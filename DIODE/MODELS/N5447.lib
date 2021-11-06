@@ -1,0 +1,5 @@
+
+*SRC=1N5447;DN5447;Diodes;Varactors;30V 20pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL DN5447 D(M=.4664 VJ=.8695 CJO=36.9P BV=43.33 IBV=10N)
+* Motorola  CT=20P @ 4V Si Varactor Diode 5-5-91

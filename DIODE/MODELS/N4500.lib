@@ -1,0 +1,5 @@
+
+*SRC=1N4500;DN4500;Diodes;Switching;80V 500mA
+.MODEL DN4500 D (IS=1.79E-09 N=1.72 BV=1.07E+02 IBV=5.00E-08
++ RS=2.63E-01 CJO=3.50E-12 VJ=.75 M=.333 TT=7.64E-09)
+* Unitrode  80 Volt   0.50 Amp   0.01 us  Si Switching   Diode  07-01-1990

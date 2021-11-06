@@ -1,0 +1,5 @@
+
+*SRC=1N5398;DN5398;Diodes;Rectifier <=5A;800V 1.5A
+.MODEL DN5398 D (IS=2.24E-09 N=1.59 BV=1.07E+03 IBV=1.00E-06
++ RS=4.30E-02 CJO=3.65E-11 VJ=.2 M=.3 TT=4.20E-06)
+* Motorola  800 Volt   1.50 Amp   5.00 us  Si Rectifier   Diode  06-28-1990

@@ -1,0 +1,5 @@
+
+*SRC=HSCH-5938;HP5938;Diodes;Schottky;400V .5A
+.MODEL HP5938 D (IS=.16U RS=4 N=1.08 BV=5 IBV=10U
++ CJO=.4P VJ=.5 M=.5 EG=.69 TT=72P)
+* H-P HSCH-5938 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993 

@@ -1,0 +1,5 @@
+
+*SRC=1N4744;ZN4744;Diodes;Zener 10V-50V;15V 1W
+.MODEL ZN4744 D (IS=53.2F RS=6.47 N=1 BV=14.89 IBV=17M
++ CJO=78.3P VJ=1 M=.33 TT=50.1N)
+* Motorola 15 Volt  1 Watt  Zener Diode  06-15-1993

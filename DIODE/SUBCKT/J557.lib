@@ -1,0 +1,11 @@
+
+*SRC=J557;J557;Diodes;JFET Regulator;100V 4.5mA
+*SYM=CRDIODE
+.SUBCKT J557 1     2
+*Connections Anode Cathode 
+JFET 1 2 2 J557
+.MODEL J557 NJF (VTO=-1.75 BETA=1.65M LAMBDA=1.1M RD=360
++ RS=46 IS=1.58F PB=1 FC=.5 CGS=5.57P CGD=3.78P)
+*  100 Volt  20M Amp  1K ohm  Dep-Mode N-Channel J-FET Diode 05-10-1991
+*  Siliconix 
+.ENDS

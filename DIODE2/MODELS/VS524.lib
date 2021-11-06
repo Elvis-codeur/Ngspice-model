@@ -1,0 +1,5 @@
+
+*SRC=TVS524;TVS524;Diodes;Zener 10V-50V;28.4V 5W
+.MODEL TVS524 D (IS=1.29U RS=37.4 N=1 BV=28.09 IBV=1M
++ CJO=988P VJ=.75 M=.333 TT=36U)
+* Unitrode 28.4 Volt  5 Watt  Zener Diode  10-12-1991

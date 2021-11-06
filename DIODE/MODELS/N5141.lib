@@ -1,0 +1,5 @@
+
+*SRC=1N5141;DN5141;Diodes;Varactors;60V 12pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL DN5141 D(M=0.4621 VJ=.832 CJO=22.12P BV=90 IBV=10N)
+* Motorola  CT=12P @ 4V Si Varactor Diode 5-5-91

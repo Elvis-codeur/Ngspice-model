@@ -1,0 +1,5 @@
+
+*SRC=MUR190;MUR190;Diodes;Rectifier <=5A;900V 1A
+.MODEL MUR190 D (IS=4.41U RS=80.8M N=3.53 BV=1200 IBV=10U
++ CJO=17P VJ=.75 M=.333 TT=144N)
+* Motorola  900 Volt  1 Amp  .075 us  Si Diode  04-22-1991

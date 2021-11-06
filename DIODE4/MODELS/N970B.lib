@@ -1,0 +1,5 @@
+
+*SRC=1N970B;ZN970B;Diodes;Zener 10V-50V;24V .4W
+.MODEL ZN970B D (IS=3.08P RS=28 N=1 BV=23.86 IBV=5.2M
++ CJO=30.8P VJ=1 M=.33 TT=50.1N)
+* Yunizon 24 Volt  .4 Watt  Zener Diode  11-11-1993

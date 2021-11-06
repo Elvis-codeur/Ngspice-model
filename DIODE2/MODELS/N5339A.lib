@@ -1,0 +1,5 @@
+
+*SRC=1N5339A;DN5339A;Diodes;Zener <=10V;5.6V 5W
+.MODEL DN5339A D (IS=1.90E-18 RS=.502 N=1 BV=5.490 IBV=.223
++ CJO=822P VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 5.6 Volt  5 Watt  Zener Diode  02-05-1993

@@ -1,0 +1,5 @@
+
+*SRC=04AZ27;Z04AZ27;Diodes;Zener 10V-50V;27V .4W
+.MODEL Z04AZ27 D (IS=118P RS=39.8 N=1 BV=23.81 IBV=5M
++ CJO=30.8P VJ=1 M=.33 TT=50.1N)
+* Toshiba 24 Volt  .4 Watt  Zener Diode  11-08-1993

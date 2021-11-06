@@ -1,0 +1,5 @@
+
+*SRC=BAT83;BAT83;Diodes;Schottky;60V 30mA
+.MODEL BAT83 D (IS=9.98E-08 N=1.47 BV=9.00E+01 IBV=1.00E-07
++ RS=1.02E+01 CJO=1.31E-12 VJ=.75 M=.333 XTI=2 EG=0.69 TT=1.44E-11)
+* Philips  60 Volt   0.03 Amp   Si Schottky   Diode  07-06-1990

@@ -1,0 +1,5 @@
+
+*SRC=1N5444;DN5444;Diodes;Varactors;30V 12pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL DN5444 D(M=.4213 VJ=.6941 CJO=22.1P BV=43.33 IBV=10N)
+* Motorola  CT=12P @ 4V Si Varactor Diode 5-5-91

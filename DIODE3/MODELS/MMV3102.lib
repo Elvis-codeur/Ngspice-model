@@ -1,0 +1,6 @@
+
+*SRC=FMMV3102;FMMV3102;Diodes;Rectifier <=5A;6.2V .2W
+.MODEL FMMV3102 D IS=5.452E-15 N=1.053 RS=.1858 XTI=3 
++      EG=1.11 CJO=52.04E-12 M=.9 VJ=2.311 FC=.5 BV=45.12 
++      IBV=.1233 TT=194.8E-9
+* Zetex 6.2 Volt  .2 Watt  Rectifier Diode  06-15-1993

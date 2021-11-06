@@ -1,0 +1,5 @@
+
+*SRC=BA317;BA317;Diodes;Switching;30V 225mA
+.MODEL BA317 D (IS=25.1N RS=1.08 N=2 BV=43.3 IBV=20N
++ CJO=1.8P VJ=.75 M=.333 TT=3.76N)
+* Philips   30 Volt  .1 Amp  .004 us  Si Diode  11-23-1990

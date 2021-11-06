@@ -1,0 +1,11 @@
+
+*SRC=J502;J502;Diodes;JFET Regulator;100V .43mA
+*SYM=CRDIODE
+.SUBCKT J502 1     2
+*Connections Anode Cathode 
+JFET 1 2 2 J502
+.MODEL J502 NJF (VTO=-1.2 BETA=.39M LAMBDA=1.1M RD=100
++ RS=121 IS=1.58F PB=1 FC=.5 CGS=5.57P CGD=3.78P)
+*  100 Volt    Dep-Mode N-Channel J-FET Diode 05-10-1991
+*  Siliconix 
+.ENDS

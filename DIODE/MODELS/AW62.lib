@@ -1,0 +1,5 @@
+
+*SRC=BAW62;BAW62;Diodes;Rectifier <=5A;75V 450mA
+.MODEL BAW62 D (IS=4.43E-08 N=2.19 BV=1.00E+02 IBV=3.60E-09
++ RS=8.87E-01 CJO=1.53E-12 VJ=.75 M=.303 TT=3.66E-09)
+* Philips  75 Volt   0.20 Amp   3.00 ns  Si Rectifier   Diode  07-05-1990

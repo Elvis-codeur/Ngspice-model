@@ -1,0 +1,5 @@
+
+*SRC=1N4734;ZN4734;Diodes;Zener <=10V;5.6V 1W
+.MODEL ZN4734 D (IS=.732F RS=.924 N=1 BV=5.561 IBV=45M
++ CJO=164P VJ=.75 M=.33 TT=50.1N)
+* Motorola 5.6 Volt  1 Watt  Zener Diode  06-15-1993

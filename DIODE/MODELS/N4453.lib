@@ -1,0 +1,5 @@
+
+*SRC=1N4453;DN4453;Diodes;Switching;30V 200mA
+.MODEL DN4453 D (IS=1.32E-10 N=1.59 BV=2.66E+01 IBV=5.00E-08
++ RS=1.67E-01 CJO=3.00E-11 VJ=.75 M=.333 TT=2.88E-08)
+* Unitrode  30 Volt   0.20 Amp   0.02 us  Si Switching   Diode  07-01-1990

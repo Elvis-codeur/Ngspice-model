@@ -1,0 +1,5 @@
+
+*SRC=1AZ12;Z1AZ12;Diodes;Zener 10V-50V;12V 1W
+.MODEL Z1AZ12 D (IS=5.19N RS=27.4 N=1 BV=11.73 IBV=10M
++ CJO=94.2P VJ=1 M=.33 TT=50.1N)
+* Toshiba 12 Volt  1 Watt  Zener Diode  11-09-1993

@@ -1,0 +1,6 @@
+
+*SRC=BB204;BB204;Diodes;Varactors;32V 36pf
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL BB204 D (IS=87.5P RS=.206 N=1.72 BV=42.9 IBV=10N
++ CJO=78.3P VJ=.293 M=.273 TT=360N)
+* Siemens  30 Volt  50M Amp  CT=36P @.3V Diode  05-05-1991

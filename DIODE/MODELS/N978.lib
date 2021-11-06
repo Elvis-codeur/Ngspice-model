@@ -1,0 +1,5 @@
+
+*SRC=1N978;DN978;Diodes;Zener >50V;51V .5W
+.MODEL DN978 D(RS=60.790 BV=50.851     
++ CJO=256.17P TT=20N N=2 IS=1E-9 IBV=2.4510M)   
+* Motorola  51.0 Volt Si Zener 10-26-1990

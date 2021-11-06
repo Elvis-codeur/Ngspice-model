@@ -1,0 +1,5 @@
+
+*SRC=BAS70;BAS70;Diodes;Schottky;70V 15mA
+.MODEL BAS70 D (IS=13.5N RS=7.68 N=1.29 BV=93.3 IBV=200N
++ CJO=1.6P VJ=.75 M=.333 TT=14.4P EG=0.69 XTI=2)
+* Siemens  70 Volt  .015 Amp   Si Schottky Diode  11-23-1990

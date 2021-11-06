@@ -1,0 +1,5 @@
+
+*SRC=MUR405;MUR405;Diodes;Rectifier <=5A;50V 4A
+.MODEL MUR405 D (IS=46.8N RS=7.36M N=1.67 BV=66.6 IBV=5U
++ CJO=137P VJ=.75 M=.333 TT=36N)
+* Motorola 50 Volt  4 Amp  .025 us  Si Diode  04-26-1991

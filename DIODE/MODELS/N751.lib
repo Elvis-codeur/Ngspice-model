@@ -1,0 +1,5 @@
+
+*SRC=1N751;DN751;Diodes;Zener <=10V;5.1V .5W
+.MODEL DN751 D(RS=7.7083 BV=4.9458     
++ CJO=406.80P TT=50N M=.33 VJ=.75 IS=1E-11 N=1.27 IBV=10MA)     
+* Motorola  5.1 Volt Si Zener 10-26-1990

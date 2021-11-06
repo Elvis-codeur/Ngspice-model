@@ -1,0 +1,5 @@
+
+*SRC=1N980;DN980;Diodes;Zener >50V;62V .5W
+.MODEL DN980 D(RS=89.038 BV=61.820     
++ CJO=224.97P TT=20N N=2 IS=1E-9 IBV=2.0161M)   
+* Motorola  62.0 Volt Si Zener 10-26-1990

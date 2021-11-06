@@ -1,0 +1,6 @@
+
+*SRC=FMMV2104;FMMV2104;Diodes;Rectifier <=5A;6.2V .2W
+.MODEL FMMV2104 D IS=7.4E-15 N=1.085 RS=.118 XTI=3 
++      EG=1.11 CJO=27.27E-12 M=.4339 VJ=.6962 FC=.5 BV=45.13 
++      IBV=.1849 TT=281.3E-9
+* Zetex 6.2 Volt  .2 Watt  Rectifier Diode  06-15-1993

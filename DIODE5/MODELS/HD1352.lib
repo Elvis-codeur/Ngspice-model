@@ -1,0 +1,5 @@
+******
+*SRC=SHD1352;SHD1352;Diodes;Schottky;45V 45A Sensitron
+.MODEL SHD1352 D (IS=22.4N RS=1.68M N=.775 BV=53 IBV=1M 
++ CJO=5.48N VJ=.75 M=.333 TT=14.4P)
+* SENSITRON 45 Volt  45 Amp  10U us  Si Diode  06-02-1993

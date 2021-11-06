@@ -1,0 +1,11 @@
+
+*SRC=J556;J556;Diodes;JFET Regulator;100V 3mA
+*SYM=CRDIODE
+.SUBCKT J556 1     2
+*Connections Anode Cathode 
+JFET 1 2 2 J556
+.MODEL J556 NJF (VTO=-1.60 BETA=1.45M LAMBDA=1.1M RD=280
++ RS=56 IS=1.58F PB=1 FC=.5 CGS=5.57P CGD=3.78P)
+*  100 Volt  20M Amp  1K ohm  Dep-Mode N-Channel J-FET Diode 05-10-1991
+*  Siliconix 
+.ENDS

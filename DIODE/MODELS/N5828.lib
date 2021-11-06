@@ -1,0 +1,5 @@
+
+*SRC=1N5828;DN5828;Diodes;Schottky;40V 15A
+.MODEL DN5828 D (IS=3.55E-04 N=1.29 BV=5.33E+01 IBV=4M
++ RS=4.18E-03 CJO=1.83E-09 VJ=.81 M=.41 XTI=2 EG=0.69 TT=1.08E-11)
+* Motorola 40 Volt  15.00 Amp   Si Schottky   Diode  07-05-1990

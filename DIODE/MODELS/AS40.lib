@@ -1,0 +1,5 @@
+
+*SRC=BAS40;BAS40;Diodes;Schottky;40V 40mA
+.MODEL BAS40 D (IS=42.8N RS=.530 N=1.17 BV=53.2 IBV=500N
++ CJO=4P VJ=.75 M=.333 TT=14.4P EG=0.69 XTI=2)
+* Siemens   40 Volt  .04 Amp   Si Schottky Diode  11-23-1990

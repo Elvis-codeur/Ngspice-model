@@ -1,0 +1,5 @@
+
+*SRC=BAT85;BAT85;Diodes;Schottky;30V 200mA
+.MODEL BAT85 D (IS=9.29E-07 N=1.27 BV=4.00E+01 IBV=6.00E-07
++ RS=8.89E-01 CJO=1.20E-11 VJ=.75 M=.333 XTI=2 EG=0.69 TT=4.32E-11)
+* Philips  30 Volt   0.10 Amp   Si Schottky   Diode  07-06-1990

@@ -1,0 +1,5 @@
+
+*SRC=1N4154;DN4154;Diodes;Switching;35V 200mA
+.MODEL DN4154 D (IS=4.77E-10 N=1.67 BV=4.66E+01 IBV=1.00E-05
++ RS=2.95E-01 CJO=4.00E-12 VJ=.75 M=.333 TT=2.88E-09)
+* Unitrode  35 Volt   0.20 Amp   2.00 ns  Si Switching   Diode  07-01-1990

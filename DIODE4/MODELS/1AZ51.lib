@@ -1,0 +1,5 @@
+
+*SRC=1AZ51;Z1AZ51;Diodes;Zener >50V;51V 1W
+.MODEL Z1AZ51 D (IS=5.19N RS=62.4 N=1 BV=50.40 IBV=10M
++ CJO=33.6P VJ=1 M=.33 TT=50.1N)
+* Toshiba 51 Volt  1 Watt  Zener Diode  11-09-1993

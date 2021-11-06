@@ -1,0 +1,6 @@
+
+*SRC=HSMS-8101;HP8101;Diodes;Schottky;400V .5A
+.MODEL HP8101 D (IS=90N RS=4 N=1.08 BV=5.5 IBV=10U
++ CJO=.23P VJ=.5 M=.5 EG=.69 TT=72P)
+* 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993 
+* H-P HSMS-8001, HSMS-8101 

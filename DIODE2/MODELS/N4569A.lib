@@ -1,0 +1,5 @@
+
+*SRC=1N4569A;ZN4569A;Diodes;Zener 10V-50V;6.4V .4W
+.MODEL ZN4569A D (IS=.582F RS=.25 N=1 BV=6.403 IBV=500U
++ CJO=53.8P VJ=.75 M=.33 TT=50.1N)
+* Motorola 6.4 Volt  .4 Watt  Zener Diode  12-11-1995

@@ -1,0 +1,5 @@
+
+*SRC=1N6392N;DN6392N;Diodes;Schottky;45V 120A Normal Temp
+.MODEL DN6392N D (IS=3.1U RS=1.96M N=1.09 BV=60 IBV=5M
++ CJO=5.32N VJ=.75 M=.333 TT=14.4P XTI=2 EG=.69)
+* Unitrode 45 Volt  120 Amp  Si Schottky Diode  10-26-1990

@@ -1,0 +1,5 @@
+
+*SRC=1N748A;ZN748A;Diodes;Zener <=10V;3.9V .4W
+.MODEL ZN748A D (IS=439F RS=21.7 N=1 BV=3.467 IBV=20M
++ CJO=113P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 3.9 Volt  .4 Watt  Zener Diode  11-11-1993

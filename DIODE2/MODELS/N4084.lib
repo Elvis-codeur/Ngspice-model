@@ -1,0 +1,5 @@
+
+*SRC=1N4084;ZN4084;Diodes;Zener >50V;175V 2.5W
+.MODEL ZN4084 D (IS=12.9N RS=1.14K N=1 BV=172.2 IBV=2.5M
++ CJO=28.5P VJ=1 M=.33 TT=50.1N)
+* Motorola 175 Volt  2.5 Watt  Zener Diode  06-15-1993

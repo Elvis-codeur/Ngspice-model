@@ -1,0 +1,5 @@
+
+*SRC=1N747;DN747;Diodes;Zener <=10V;3.6V .5W
+.MODEL DN747 D(RS=12.796 BV=3.3441     
++ CJO=542.22P TT=50N M=.33 VJ=.75 IS=1E-11 N=1.27 IBV=10MA)     
+* Motorola  3.6 Volt Si Zener 10-26-1990

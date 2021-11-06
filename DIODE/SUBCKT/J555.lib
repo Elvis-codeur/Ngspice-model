@@ -1,0 +1,11 @@
+
+*SRC=J555;J555;Diodes;JFET Regulator;100V 2mA
+*SYM=CRDIODE
+.SUBCKT J555 1     2
+*Connections Anode Cathode 
+JFET 1 2 2 J555
+.MODEL J555 NJF (VTO=-1.46 BETA=1.15M LAMBDA=1.1M RD=210
++ RS=66 IS=1.58F PB=1 FC=.5 CGS=5.57P CGD=3.78P)
+*  100 Volt  20M Amp  1K ohm  Dep-Mode N-Channel J-FET Diode 05-10-1991
+*  Siliconix 
+.ENDS

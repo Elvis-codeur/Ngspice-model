@@ -1,0 +1,5 @@
+
+*SRC=1N4736;ZN4736;Diodes;Zener <=10V;6.8V 1W
+.MODEL ZN4736 D (IS=.776F RS=1 N=1 BV=6.766 IBV=37M
++ CJO=123P VJ=.75 M=.33 TT=50.1N)
+* Motorola 6.8 Volt  1 Watt  Zener Diode  06-15-1993

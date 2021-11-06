@@ -1,0 +1,5 @@
+
+*SRC=1N1741;ZN1741;Diodes;Zener 10V-50V;43.4V 1.4W
+.MODEL ZN1741 D (IS=7.27N RS=131 N=1 BV=42.43 IBV=7.5M
++ CJO=45.6P VJ=1 M=.33 TT=50.1N)
+* Motorola 43.4 Volt  1.4 Watt  Zener Diode  06-15-1993

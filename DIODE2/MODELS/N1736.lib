@@ -1,0 +1,5 @@
+
+*SRC=1N1736;ZN1736;Diodes;Zener 10V-50V;12.4V .4W
+.MODEL ZN1736 D (IS=9.17P RS=31.5 N=1 BV=12.16 IBV=7.5M
++ CJO=45.6P VJ=1 M=.33 TT=50.1N)
+* Motorola 12.4 Volt  .4 Watt  Zener Diode  06-15-1993

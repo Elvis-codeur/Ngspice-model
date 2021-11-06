@@ -1,0 +1,5 @@
+
+*SRC=04AZ8_2;Z04AZ8_2;Diodes;Zener <=10V;8.2V .4W
+.MODEL Z04AZ8_2 D (IS=52.4F RS=14.8 N=1 BV=8.129 IBV=5M
++ CJO=37.1P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 8.2 Volt  .4 Watt  Zener Diode  11-08-1993

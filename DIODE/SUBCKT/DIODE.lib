@@ -1,0 +1,10 @@
+
+*SRC=DIODE;DIODE;Generic Models;Diode;Rectifier
+*SYM=DIODE
+.SUBCKT DIODE 1 2 {VMAX=??? TRR=??? IMAX=???}
+*Parameters: Vmax Maximum Voltage in Volts, Trr Reverse Recovery Time in Seconds
+* Imax maximum current in Amps
+D1 1 2 DIODE
+.MODEL DIODE D(CJO={30P*IMAX} IS={5N*IMAX} TT={1.44*TRR}
++ BV={1.5*VMAX} IBV=1UA N=2 RS={.075/IMAX})
+.ENDS

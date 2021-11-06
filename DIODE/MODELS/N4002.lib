@@ -1,0 +1,5 @@
+
+*SRC=1N4002;DN4002;Diodes;Rectifier <=5A;100V 1A
+.MODEL DN4002 D (IS=5.86E-06 N=1.70 BV=1.33E+02 IBV=5.00E-07
++ RS=3.62E-02 CJO=5.21E-11 VJ=.34 M=.38 TT=5.04E-06)
+* Motorola  100 Volt   1.00 Amp   3.50 us  Si Rectifier   Diode  07-01-1990

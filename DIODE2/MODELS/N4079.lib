@@ -1,0 +1,5 @@
+
+*SRC=1N4079;ZN4079;Diodes;Zener >50V;110V 2W
+.MODEL ZN4079 D (IS=10.3N RS=730 N=1 BV=108.2 IBV=2.5M
++ CJO=32.2P VJ=1 M=.33 TT=50.1N)
+* Motorola 110 Volt  2 Watt  Zener Diode  06-15-1993

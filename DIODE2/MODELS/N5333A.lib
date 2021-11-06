@@ -1,0 +1,5 @@
+
+*SRC=1N5333A;DN5333A;Diodes;Zener <=10V;3.3V 5W
+.MODEL DN5333A D (IS=22.5F RS=2.93 N=1 BV=2.186 IBV=.38
++ CJO=1.81N VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 3.3 Volt  5 Watt  Zener Diode  02-05-1993

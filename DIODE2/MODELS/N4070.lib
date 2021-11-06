@@ -1,0 +1,5 @@
+
+*SRC=1N4070;ZN4070;Diodes;Zener >50V;56V 2W
+.MODEL ZN4070 D (IS=10.3N RS=116 N=1 BV=55.15 IBV=7.5M
++ CJO=48.9P VJ=1 M=.33 TT=50.1N)
+* Motorola 56 Volt  2 Watt  Zener Diode  06-15-1993

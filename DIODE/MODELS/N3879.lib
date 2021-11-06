@@ -1,0 +1,5 @@
+
+*SRC=1N3879;DN3879;Diodes;Rectifier >5A;50V 6A
+.MODEL DN3879 D (IS=2.01E-11 N=1.70 BV=6.66E+01 IBV=1.00E-05
++ RS=1.24E-02 CJO=1.19E-10 VJ=.75 M=.26 TT=1.44E-07)
+* Motorola 50 Volt   6.00 Amp   0.10 us  Si Rectifier   Diode  06-27-1990

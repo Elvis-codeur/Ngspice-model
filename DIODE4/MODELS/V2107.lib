@@ -1,0 +1,5 @@
+
+*SRC=MV2107;MV2107;Diodes;Varactors;CT=22P @ 4V
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL MV2107 D(M=.434 VJ=3.47 CJO=11.35P BV=43.33 IBV=10N)
+* Motorola  CT=22P @ 4V Si Varactor Diode

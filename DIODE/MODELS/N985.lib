@@ -1,0 +1,5 @@
+
+*SRC=1N985;DN985;Diodes;Zener >50V;100V .5W
+.MODEL DN985 D(RS=274.92 BV=99.656     
++ CJO=163.71P TT=20N N=2 IS=1E-9 IBV=1.2500M)   
+* Motorola  100.0 Volt Si Zener 10-26-1990

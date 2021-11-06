@@ -1,0 +1,5 @@
+
+*SRC=1N1742;ZN1742;Diodes;Zener 10V-50V;49.6V 1.6W
+.MODEL ZN1742 D (IS=8.31N RS=171 N=1 BV=48.33 IBV=7.5M
++ CJO=45.6P VJ=1 M=.33 TT=50.1N)
+* Motorola 49.6 Volt  1.6 Watt  Zener Diode  06-15-1993

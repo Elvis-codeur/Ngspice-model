@@ -1,0 +1,5 @@
+
+*SRC=HSMS-284X;HP284X;Diodes;Schottky;400V .5A
+.MODEL HP284X D (IS=30N RS=22 N=1.08 BV=60 IBV=10U
++ CJO=1.8P VJ=.65 M=.5 EG=.69 TT=72P)
+* H-P HSMS-284X 400 Volt  .5 Amp  Si Schottky Diode  06-16-1993  

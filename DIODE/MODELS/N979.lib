@@ -1,0 +1,5 @@
+
+*SRC=1N979;DN979;Diodes;Zener >50V;56V .5W
+.MODEL DN979 D(RS=72.570 BV=55.838     
++ CJO=240.73P TT=20N N=2 IS=1E-9 IBV=2.2321M)   
+* Motorola  56.0 Volt Si Zener 10-26-1990

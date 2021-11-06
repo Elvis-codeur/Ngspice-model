@@ -1,0 +1,5 @@
+
+*SRC=BY399;BY399;Diodes;Rectifier <=5A;800V 3A
+.MODEL BY399 D (IS=22U RS=42M N=3.35 BV=800 IBV=10U
++ CJO=90P VJ=.75 M=.333 TT=589N)
+* Diotec 800 Volt  3 Amp  .5 us  Si Diode  02-08-1993

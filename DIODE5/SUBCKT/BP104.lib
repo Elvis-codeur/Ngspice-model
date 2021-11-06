@@ -1,0 +1,15 @@
+
+*SRC=BP104;BP104;Diodes;Photo;PIN, 700MA/W
+*SYM=BPW34
+.SUBCKT BP104   4             1        3
+*               INPUT Pwr(W)  CATHODE  ANODE
+D2  6  1  BP104
+G2  1  6  POLY(2)  1  6  4  0  0  200P  700M
+* G2  1  6  POLY(2)  1  6  4  0  0  IDARK  SENS
+* Dark current as a function of VR: IDARK*V(1,6) 
+* and Spectral Photosensitivity (A/W): SENS at 950 NM
+V4  6  3 ;  Photodiode Current
+.MODEL BP104 D (IS=2.46N RS=42M N=2.85 BV=20 IBV=10U
++ CJO=48P VJ=.75 M=.333 TT=28.8N)
+*  20 Volt   Si Photo Diode  08-23-1994
+.ENDS

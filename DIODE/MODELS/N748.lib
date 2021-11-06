@@ -1,0 +1,5 @@
+
+*SRC=1N748;DN748;Diodes;Zener <=10V;3.9V .5W
+.MODEL DN748 D(RS=11.838 BV=3.6632     
++ CJO=507.57P TT=50N M=.33 VJ=.75 IS=1E-11 N=1.27 IBV=10MA)     
+* Motorola  3.9 Volt Si Zener 10-26-1990

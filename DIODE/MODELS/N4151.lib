@@ -1,0 +1,5 @@
+
+*SRC=1N4151;DN4151;Diodes;Switching;75V 200mA
+.MODEL DN4151 D (IS=8.74E-10 N=1.67 BV=1.00E+02 IBV=2.50E-05
++ RS=3.42E-01 CJO=4.00E-12 VJ=.75 M=.333 TT=2.88E-09)
+* Unitrode  75 Volt   0.20 Amp   2.00 ns  Si Switching   Diode  07-01-1990

@@ -1,0 +1,5 @@
+
+*SRC=1N959B;ZN959B;Diodes;Zener <=10V;8.2V .4W
+.MODEL ZN959B D (IS=2.35F RS=4.77 N=1 BV=8.132 IBV=15M
++ CJO=37.1P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 8.2 Volt  .4 Watt  Zener Diode  11-11-1993

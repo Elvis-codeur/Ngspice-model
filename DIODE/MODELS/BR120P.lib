@@ -1,0 +1,5 @@
+
+*SRC=MBR120P;MBR120P;Diodes;Schottky;20V 1A
+.MODEL MBR120P D (IS=1.65E-05 N=1.34 BV=2.66E+01 IBV=3.00E-04
++ RS=4.47E-02 CJO=2.31E-10 VJ=.75 M=.5 XTI=2 EG=0.69 TT=7.20E-11)
+* Motorola 20 Volt   1.00 Amp   Si Schottky   Diode  07-05-1990

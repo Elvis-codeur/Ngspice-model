@@ -1,0 +1,5 @@
+
+*SRC=1N5338A;DN5338A;Diodes;Zener <=10V;5.1V 5W
+.MODEL DN5338A D (IS=5.96E-17 RS=1.39 N=1 BV=4.760 IBV=.245
++ CJO=946P VJ=.75 M=.33 TT=50.1N)
+* SGS Thomson 5.1 Volt  5 Watt  Zener Diode  02-05-1993

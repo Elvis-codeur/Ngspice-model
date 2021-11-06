@@ -1,0 +1,5 @@
+
+*SRC=TVS515;TVS515;Diodes;Zener 10V-50V;16.7V 5W
+.MODEL TVS515 D (IS=1.29U RS=20.2 N=1 BV=16.39 IBV=1M
++ CJO=1.46N VJ=.75 M=.333 TT=36U)
+* Unitrode 16.7 Volt  5 Watt  Zener Diode  10-12-1991

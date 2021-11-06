@@ -1,0 +1,5 @@
+
+*SRC=1N4148;DN4148;Diodes;Switching;75V 200mA
+.MODEL DN4148 D(RS=.8 CJO=4PF IS=7E-09 N=2 VJ=.6V    
++ TT=6E-09 M=.45 BV=100V)
+* Unitrode    100 Volt 200mA   5ns    Si Diode 10-26-1990

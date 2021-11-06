@@ -1,0 +1,5 @@
+
+*SRC=5KQ30;D5KQ30;Diodes;Schottky;30V 5A
+.MODEL D5KQ30 D (IS=263.4N RS=25M N=1.01 BV=30 IBV=5M
++ CJO=206P VJ=.75 M=.333 TT=72N EG=0.69 XTI=2)
+* Nippon Inta 30 Volt  5 Amp  50M us  Si Diode  11-16-1993

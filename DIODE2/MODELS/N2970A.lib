@@ -1,0 +1,5 @@
+
+*SRC=1N2970A;ZN2970A;Diodes;Zener <=10V;6.8V 10W
+.MODEL ZN2970A D (IS=3.28E-17 RS=.53 N=1 BV=6.607 IBV=.37
++ CJO=1.23N VJ=.75 M=.33 TT=50.1N)
+* Motorola 6.8 Volt  10 Watt  Zener Diode  06-15-1993

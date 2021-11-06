@@ -1,0 +1,5 @@
+
+*SRC=1S317;DS317;Diodes;Rectifier <=5A;1000V 0.45A
+.MODEL DS317 D (IS=18.4N RS=42M N=1.75 BV=1K IBV=720U
++ CJO=206P VJ=.75 M=.333 TT=1.29U)
+* Hitachi 1000 Volt  0.45 Amp  .9 us  Si Diode  11-09-1993

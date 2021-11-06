@@ -1,0 +1,5 @@
+
+*SRC=BAV21;BAV21;Diodes;Rectifier <=5A;200V .25A
+.MODEL BAV21 D (IS=4.31N RS=.491 N=2 BV=266 IBV=100N
++ CJO=1.5P VJ=.65 M=.233 TT=43.2N)
+* Philips   200 Volt  .25 Amp  5E-08 us  Si Diode  11-23-1990

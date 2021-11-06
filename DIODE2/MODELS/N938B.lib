@@ -1,0 +1,5 @@
+
+*SRC=1N938B;DN938B;Diodes;Zener <=10V;9V .5W
+.MODEL DN938B D (IS=589F RS=17.5 N=1 BV=8.872 IBV=7.5M
++ CJO=30P VJ=.75 M=.33 TT=50.1N)
+* Motorola 9 Volt  .5 Watt  Zener Diode  02-05-1993
