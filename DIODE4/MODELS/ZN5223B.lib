@@ -1,0 +1,5 @@
+
+*SRC=1N5223B;ZN5223B;Diodes;Zener <=10V;2.7V .5W
+.MODEL ZN5223B D (IS=43.7P RS=28.7 N=1 BV=2.126 IBV=20M
++ CJO=245P VJ=.75 M=.33 TT=50.1N)
+* Nichiden 2.7 Volt  .5 Watt  Zener Diode  11-11-1993

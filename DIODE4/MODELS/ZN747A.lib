@@ -1,0 +1,5 @@
+
+*SRC=1N747A;ZN747A;Diodes;Zener <=10V;3.6V .4W
+.MODEL ZN747A D (IS=598F RS=22.7 N=1 BV=3.147 IBV=20M
++ CJO=127P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 3.6 Volt  .4 Watt  Zener Diode  11-11-1993

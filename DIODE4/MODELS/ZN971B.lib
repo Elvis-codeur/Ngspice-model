@@ -1,0 +1,5 @@
+
+*SRC=1N971B;ZN971B;Diodes;Zener 10V-50V;27V .4W
+.MODEL ZN971B D (IS=29.8P RS=35.3 N=1 BV=26.85 IBV=4.6M
++ CJO=29P VJ=1 M=.33 TT=50.1N)
+* Yunizon 27 Volt  .4 Watt  Zener Diode  11-11-1993

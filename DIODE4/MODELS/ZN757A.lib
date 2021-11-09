@@ -1,0 +1,5 @@
+
+*SRC=1N757A;ZN757A;Diodes;Zener <=10V;9.1V .4W
+.MODEL ZN757A D (IS=7.93F RS=8.7 N=1 BV=8.930 IBV=20M
++ CJO=31.7P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 9.1 Volt  .4 Watt  Zener Diode  11-11-1993

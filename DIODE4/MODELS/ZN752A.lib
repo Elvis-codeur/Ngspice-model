@@ -1,0 +1,5 @@
+
+*SRC=1N752A;ZN752A;Diodes;Zener <=10V;5.6V .4W
+.MODEL ZN752A D (IS=10.8F RS=9.7 N=1 BV=5.408 IBV=20M
++ CJO=65.8P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 5.6 Volt  .4 Watt  Zener Diode  11-11-1993

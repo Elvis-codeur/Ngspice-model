@@ -1,0 +1,5 @@
+
+*SRC=1S812;DS812;Diodes;Rectifier <=5A;400V 0.5A
+.MODEL DS812 D (IS=5.59N RS=50M N=1.85 BV=400 IBV=90U
++ CJO=83.5P VJ=.75 M=.333 TT=1.44U)
+* Fujidenki 400 Volt  0.5 Amp  1 us  Si Diode  11-11-1993

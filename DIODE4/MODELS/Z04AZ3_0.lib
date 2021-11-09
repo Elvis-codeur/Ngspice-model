@@ -1,0 +1,5 @@
+
+*SRC=04AZ3_0;Z04AZ3_0;Diodes;Zener <=10V;3.0V .4W
+.MODEL Z04AZ3_0 D (IS=2.07N RS=54.8 N=1 BV=2.727 IBV=5M
++ CJO=167P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 3 Volt  .4 Watt  Zener Diode  11-08-1993

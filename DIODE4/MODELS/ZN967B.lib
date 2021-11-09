@@ -1,0 +1,5 @@
+
+*SRC=1N967B;ZN967B;Diodes;Zener 10V-50V;18V .4W
+.MODEL ZN967B D (IS=112F RS=17.3 N=1 BV=17.88 IBV=7M
++ CJO=36.1P VJ=1 M=.33 TT=50.1N)
+* Yunizon 18 Volt  .4 Watt  Zener Diode  11-11-1993

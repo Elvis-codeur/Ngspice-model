@@ -1,0 +1,5 @@
+
+*SRC=04AZ12;Z04AZ12;Diodes;Zener 10V-50V;12V .4W
+.MODEL Z04AZ12 D (IS=245F RS=19.8 N=1 BV=11.90 IBV=5M
++ CJO=46.6P VJ=1 M=.33 TT=50.1N)
+* Toshiba 12 Volt  .4 Watt  Zener Diode  11-08-1993

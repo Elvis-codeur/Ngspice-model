@@ -1,0 +1,5 @@
+
+*SRC=1AZ13;Z1AZ13;Diodes;Zener 10V-50V;13V 1W
+.MODEL Z1AZ13 D (IS=5.19N RS=27.4 N=1 BV=12.73 IBV=10M
++ CJO=88.1P VJ=1 M=.33 TT=50.1N)
+* Toshiba 13 Volt  1 Watt  Zener Diode  11-09-1993

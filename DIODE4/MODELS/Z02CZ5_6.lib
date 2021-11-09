@@ -1,0 +1,5 @@
+
+*SRC=02CZ5_6;Z02CZ5_6;Diodes;Zener <=10V;5.6V 200mW
+.MODEL Z02CZ5_6 D (IS=58.3F RS=34.8 N=1 BV=5.428 IBV=5M
++ CJO=32.9P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 5.6 Volt  .2 Watt  Zener Diode  11-08-1993

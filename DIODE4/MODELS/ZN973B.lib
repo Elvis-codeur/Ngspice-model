@@ -1,0 +1,5 @@
+
+*SRC=1N973B;ZN973B;Diodes;Zener 10V-50V;33V .4W
+.MODEL ZN973B D (IS=2.07N RS=51.2 N=1 BV=32.82 IBV=3.8M
++ CJO=26.5P VJ=1 M=.33 TT=50.1N)
+* Yunizon 33 Volt  .4 Watt  Zener Diode  11-11-1993

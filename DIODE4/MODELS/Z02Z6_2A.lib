@@ -1,0 +1,5 @@
+
+*SRC=02Z6_2A;Z02Z6_2A;Diodes;Zener <=10V;6.2V 250mW
+.MODEL Z02Z6_2A D (IS=9.7F RS=17.4 N=1 BV=6.028 IBV=10M
++ CJO=35.3P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 6.2 Volt  .25 Watt  Zener Diode  11-08-1993

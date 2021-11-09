@@ -1,0 +1,5 @@
+
+*SRC=1N5224B;ZN5224B;Diodes;Zener <=10V;2.8V .5W
+.MODEL ZN5224B D (IS=43.7P RS=28.7 N=1 BV=2.227 IBV=20M
++ CJO=232P VJ=.75 M=.33 TT=50.1N)
+* Nichiden 2.8 Volt  .5 Watt  Zener Diode  11-11-1993

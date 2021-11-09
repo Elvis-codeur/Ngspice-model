@@ -1,0 +1,5 @@
+
+*SRC=02BZ4_7;Z02BZ4_7;Diodes;Zener <=10V;4.7V 250mW
+.MODEL Z02BZ4_7 D (IS=175F RS=32.4 N=1 BV=4.378 IBV=10M
++ CJO=53.5P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 4.7 Volt  .25 Watt  Zener Diode  11-08-1993

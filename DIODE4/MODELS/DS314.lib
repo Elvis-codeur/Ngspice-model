@@ -1,0 +1,5 @@
+
+*SRC=1S314;DS314;Diodes;Rectifier <=5A;400V 0.5A
+.MODEL DS314 D (IS=18.4N RS=42M N=1.75 BV=400 IBV=290U
++ CJO=206P VJ=.75 M=.333 TT=720N)
+* Hitachi 400 Volt  0.5 Amp  .5 us  Si Diode  11-09-1993

@@ -1,0 +1,5 @@
+
+*SRC=1S822;DS822;Diodes;Rectifier <=5A;400V 2.5A
+.MODEL DS822 D (IS=5.59N RS=25M N=1.7 BV=400 IBV=2M
++ CJO=83.5P VJ=.75 M=.333 TT=1.44U)
+* Fujidenki 400 Volt  2.5 Amp  1 us  Si Diode  11-11-1993

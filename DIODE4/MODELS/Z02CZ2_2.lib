@@ -1,0 +1,5 @@
+
+*SRC=02CZ2_2;Z02CZ2_2;Diodes;Zener <=10V;2.2V 200mW
+.MODEL Z02CZ2_2 D (IS=96.4P RS=82.8 N=1 BV=1.786 IBV=5M
++ CJO=133P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 2.2 Volt  .2 Watt  Zener Diode  11-08-1993

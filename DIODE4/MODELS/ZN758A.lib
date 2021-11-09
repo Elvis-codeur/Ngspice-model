@@ -1,0 +1,5 @@
+
+*SRC=1N758A;ZN758A;Diodes;Zener <=10V;10V .4W
+.MODEL ZN758A D (IS=68.8F RS=15.7 N=1 BV=9.690 IBV=20M
++ CJO=27.5P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 10 Volt  .4 Watt  Zener Diode  11-11-1993

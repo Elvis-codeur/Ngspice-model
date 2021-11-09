@@ -1,0 +1,5 @@
+
+*SRC=1R5JH45;DR5JH45;Diodes;Rectifier <=5A;600V 1.5A
+.MODEL DR5JH45 D (IS=4N RS=42M N=1.75 BV=600 IBV=100U
++ CJO=63P VJ=.75 M=.333 TT=288N)
+* Toshiba 600 Volt  1.5 Amp  .2 us  Si Diode  11-09-1993

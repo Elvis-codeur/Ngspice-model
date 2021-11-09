@@ -1,0 +1,5 @@
+
+*SRC=5KQ50;D5KQ50;Diodes;Schottky;50V 5A
+.MODEL D5KQ50 D (IS=183.4N RS=28M N=1.01 BV=50 IBV=5M
++ CJO=206P VJ=.75 M=.333 TT=72N EG=0.69 XTI=2)
+* Nippon Inta 50 Volt  5 Amp  50M us  Si Diode  11-16-1993

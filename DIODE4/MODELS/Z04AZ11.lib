@@ -1,0 +1,5 @@
+
+*SRC=04AZ11;Z04AZ11;Diodes;Zener 10V-50V;11V .4W
+.MODEL Z04AZ11 D (IS=52.4F RS=14.8 N=1 BV=10.93 IBV=5M
++ CJO=49.5P VJ=1 M=.33 TT=50.1N)
+* Toshiba 11 Volt  .4 Watt  Zener Diode  11-08-1993

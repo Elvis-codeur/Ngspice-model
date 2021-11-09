@@ -1,0 +1,5 @@
+
+*SRC=02Z10A;Z02Z10A;Diodes;Zener <=10V;V 250mW
+.MODEL Z02Z10A D (IS=125F RS=30.6 N=1 BV=9.820 IBV=6M
++ CJO=17.2P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 10 Volt  .25 Watt  Zener Diode  11-08-1993

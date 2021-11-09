@@ -1,0 +1,5 @@
+
+*SRC=02CZ5_1;Z02CZ5_1;Diodes;Zener <=10V;5.1V 200mW
+.MODEL Z02CZ5_1 D (IS=5.99P RS=64.8 N=1 BV=4.778 IBV=5M
++ CJO=37.8P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 5.1 Volt  .2 Watt  Zener Diode  11-08-1993

@@ -1,0 +1,5 @@
+
+*SRC=1AZ7_5;Z1AZ7_5;Diodes;Zener <=10V;7.5V 1W
+.MODEL Z1AZ7_5 D (IS=5.19N RS=27.4 N=1 BV=7.229 IBV=10M
++ CJO=106P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 7.5 Volt  1 Watt  Zener Diode  11-09-1993

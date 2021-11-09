@@ -1,0 +1,5 @@
+
+*SRC=1N754A;ZN754A;Diodes;Zener <=10V;6.8V .4W
+.MODEL ZN754A D (IS=1.69F RS=3.7 N=1 BV=6.729 IBV=20M
++ CJO=49.2P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 6.8 Volt  .4 Watt  Zener Diode  11-11-1993

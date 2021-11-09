@@ -1,0 +1,5 @@
+
+*SRC=1AZ33;Z1AZ33;Diodes;Zener 10V-50V;33V 1W
+.MODEL Z1AZ33 D (IS=5.19N RS=27.4 N=1 BV=32.74 IBV=10M
++ CJO=43.8P VJ=1 M=.33 TT=50.1N)
+* Toshiba 33 Volt  1 Watt  Zener Diode  11-09-1993

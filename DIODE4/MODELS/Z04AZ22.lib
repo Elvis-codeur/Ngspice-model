@@ -1,0 +1,5 @@
+
+*SRC=04AZ22;Z04AZ22;Diodes;Zener 10V-50V;22V .4W
+.MODEL Z04AZ22 D (IS=1.14P RS=24.8 N=1 BV=21.88 IBV=5M
++ CJO=32.2P VJ=1 M=.33 TT=50.1N)
+* Toshiba 22 Volt  .4 Watt  Zener Diode  11-08-1993

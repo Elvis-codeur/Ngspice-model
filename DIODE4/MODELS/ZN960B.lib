@@ -1,0 +1,5 @@
+
+*SRC=1N960B;ZN960B;Diodes;Zener <=10V;9.1V .4W
+.MODEL ZN960B D (IS=3.08F RS=5.65 N=1 BV=9.025 IBV=14M
++ CJO=31.7P VJ=.75 M=.33 TT=50.1N)
+* Yunizon 9.1 Volt  .4 Watt  Zener Diode  11-11-1993

@@ -1,0 +1,5 @@
+
+*SRC=1S312;DS312;Diodes;Rectifier <=5A;200V 0.5A
+.MODEL DS312 D (IS=18.4N RS=42M N=1.75 BV=200 IBV=150U
++ CJO=206P VJ=.75 M=.333 TT=475N)
+* Hitachi 200 Volt  0.5 Amp  .33 us  Si Diode  11-09-1993

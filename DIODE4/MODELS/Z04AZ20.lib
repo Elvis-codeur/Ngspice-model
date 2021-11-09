@@ -1,0 +1,5 @@
+
+*SRC=04AZ20;Z04AZ20;Diodes;Zener 10V-50V;20V .4W
+.MODEL Z04AZ20 D (IS=1.14P RS=24.8 N=1 BV=19.88 IBV=5M
++ CJO=34P VJ=1 M=.33 TT=50.1N)
+* Toshiba 20 Volt  .4 Watt  Zener Diode  11-08-1993

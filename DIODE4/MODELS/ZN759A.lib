@@ -1,0 +1,5 @@
+
+*SRC=1N759A;ZN759A;Diodes;Zener <=10V;11V .4W
+.MODEL ZN759A D (IS=3.81P RS=28.7 N=1 BV=10.43 IBV=20M
++ CJO=49.5P VJ=1 M=.33 TT=50.1N)
+* Yunizon 11 Volt  .4 Watt  Zener Diode  11-11-1993

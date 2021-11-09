@@ -1,6 +1,6 @@
 import re 
 
-SUBCKT_FOLDER = "IGBT Transistor/"
+SUBCKT_FOLDER = "IGBT/"
 MODELS_FOLDER = "IRFDIODES/"
 
 cutter = "**********"
@@ -35,7 +35,7 @@ for i in subckt:
     
 # On écrit les models
 for i in models:
-    name = get_name(i,i.find(".MODEL") + 8)
+    name = get_name(i,i.find(".MODEL") + 7)
     f = open(MODELS_FOLDER+name+".lib","w")
     f.write(i)
     f.close()   

@@ -1,0 +1,5 @@
+
+*SRC=MV2115;MV2115;Diodes;Varactors;CT=100P @ 4V
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL MV2115 D(M=.412 VJ=3.14 CJO=131.5P BV=43.33 IBV=10N)
+* Motorola  CT=100P @ 4V Si Varactor Diode

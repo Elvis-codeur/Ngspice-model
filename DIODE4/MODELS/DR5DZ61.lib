@@ -1,0 +1,5 @@
+
+*SRC=1R5DZ61;DR5DZ61;Diodes;Rectifier <=5A;200V 1.5A
+.MODEL DR5DZ61 D (IS=3.72N RS=20M N=1.75 BV=200 IBV=30U
++ CJO=63P VJ=.75 M=.333 TT=144N)
+* Toshiba 200 Volt  1.5 Amp  .1 us  Si Diode  11-09-1993

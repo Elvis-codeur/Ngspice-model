@@ -1,0 +1,5 @@
+
+*SRC=1N966B;ZN966B;Diodes;Zener 10V-50V;16V .4W
+.MODEL ZN966B D (IS=36.8F RS=13.6 N=1 BV=15.90 IBV=7.8M
++ CJO=38.7P VJ=1 M=.33 TT=50.1N)
+* Yunizon 16 Volt  .4 Watt  Zener Diode  11-11-1993

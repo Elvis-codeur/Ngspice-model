@@ -1,0 +1,5 @@
+
+*SRC=MV2111;MV2111;Diodes;Varactors;CT=47P @ 4V
+*HELP issyntax.hlp "Varactor Diodes"
+.MODEL MV2111 D(M=.424 VJ=3.33 CJO=11.35P BV=43.33 IBV=10N)
+* Motorola  CT=47P @ 4V Si Varactor Diode

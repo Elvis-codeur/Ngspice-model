@@ -1,0 +1,5 @@
+
+*SRC=1AZ47;Z1AZ47;Diodes;Zener 10V-50V;47V 1W
+.MODEL Z1AZ47 D (IS=5.19N RS=62.4 N=1 BV=46.39 IBV=10M
++ CJO=35.2P VJ=1 M=.33 TT=50.1N)
+* Toshiba 47 Volt  1 Watt  Zener Diode  11-09-1993

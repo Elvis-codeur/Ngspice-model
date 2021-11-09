@@ -1,0 +1,5 @@
+
+*SRC=02CZ3_6;Z02CZ3_6;Diodes;Zener <=10V;3.6V 200mW
+.MODEL Z02CZ3_6 D (IS=1.03N RS=124 N=1 BV=2.977 IBV=5M
++ CJO=63.8P VJ=.75 M=.33 TT=50.1N)
+* Toshiba 3.6 Volt  .2 Watt  Zener Diode  11-08-1993

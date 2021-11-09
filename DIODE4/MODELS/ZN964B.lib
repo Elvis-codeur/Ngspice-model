@@ -1,0 +1,5 @@
+
+*SRC=1N964B;ZN964B;Diodes;Zener 10V-50V;13V .4W
+.MODEL ZN964B D (IS=12.8F RS=10.2 N=1 BV=12.90 IBV=9.5M
++ CJO=44.2P VJ=1 M=.33 TT=50.1N)
+* Yunizon 13 Volt  .4 Watt  Zener Diode  11-11-1993

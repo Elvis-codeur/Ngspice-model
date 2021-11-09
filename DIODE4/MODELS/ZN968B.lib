@@ -1,0 +1,5 @@
+
+*SRC=1N968B;ZN968B;Diodes;Zener 10V-50V;20V .4W
+.MODEL ZN968B D (IS=334F RS=20.8 N=1 BV=19.88 IBV=6.2M
++ CJO=34P VJ=1 M=.33 TT=50.1N)
+* Yunizon 20 Volt  .4 Watt  Zener Diode  11-11-1993
